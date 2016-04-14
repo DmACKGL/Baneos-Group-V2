@@ -1,0 +1,17 @@
+/*!
+ *           CSS Fuegos Artificiales
+ *  Ultima Modificacion : 31/12/2015 || 16:48 PM
+ */
+
+
+html, body {
+  overflow: hidden;
+}
+
+#library {
+  display: none;
+}
+
+canvas {
+  -webkit-transform: translateZ(0);
+}

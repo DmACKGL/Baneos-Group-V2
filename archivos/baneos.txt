@@ -1,0 +1,2729 @@
+Nombre baneado: Franco Aravena Ahumada
+Fecha baneado: 2014-11-16
+RazÛn: Spam
+Hora baneo: 02:14:52 pm
+Duracion del ban: 2 semanas (2014/11/30)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Luis Zamorano
+Fecha baneado: 2014-11-16
+RazÛn: Spam
+Hora baneo: 06:10:43 pm
+Duracion del ban: 2 semanas (2014/11/30)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Panxo Riggotti
+Fecha baneado: 2014-11-17
+RazÛn: Venta no autorizada
+Hora baneo: 12:36:31 pm
+Duracion del ban: 1 mes (2014/12/17)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Matias Rojas Ramos
+Fecha baneado: 2014-11-17
+RazÛn: Spam
+Hora baneo: 04:46:21 pm
+Duracion del ban: 2 semanas (2014/12/01)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Painte Aensland Type
+Fecha baneado: 2014-11-17
+RazÛn: Venta no autorizada
+Hora baneo: 06:33:03 pm
+Duracion del ban: 1 mes (2014/12/17)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Alguien Que Se Llama Patricio
+Fecha baneado: 2014-11-17
+RazÛn: Referidos
+Hora baneo: 08:42:11 pm
+Duracion del ban: 1 semana (2014/11/24)
+Admin que banea: Doc
+Proxy Admin: 190.163.10.247
+IP Admin: 190.163.10.247
+--------------------------------------------------------
+Nombre baneado: Tom·s Betanzo
+Fecha baneado: 2014-11-17
+RazÛn: Spam
+Hora baneo: 09:12:43 pm
+Duracion del ban: 2 semanas (2014/12/01)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Roman Andrew Oz Xin Black
+Fecha baneado: 2014-11-18
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 02:36:36 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Sebasti·n Sandoval
+Fecha baneado: 2014-11-18
+RazÛn: Venta no autorizada
+Hora baneo: 02:38:21 pm
+Duracion del ban: 1 mes (2014/12/18)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: NiÒo Bueno Kiver
+Fecha baneado: 2014-11-18
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 04:09:32 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Diego Esteban Morales Arriagada
+Fecha baneado: 2014-11-20
+RazÛn: Venta no autorizada
+Hora baneo: 03:54:54 pm
+Duracion del ban: 1 mes (2014/12/20)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Bastian Jujihara
+Fecha baneado: 2014-11-20
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 07:26:16 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Kevin Vera
+Fecha baneado: 2014-11-21
+RazÛn: Spam
+Hora baneo: 04:23:49 pm
+Duracion del ban: 2 semanas (2014/12/05)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Gameplays Retro
+Fecha baneado: 2014-11-21
+RazÛn: Bullying
+Hora baneo: 11:08:32 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+Proxy Admin: 190.45.8.167
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Hugh Highroller 
+Fecha baneado: 2014-11-22
+RazÛn: Insultos a la Administraci?n
+Hora baneo: 04:43:32 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+Proxy Admin: 190.45.8.167
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Matias Espinosa
+Fecha baneado: 2014-11-23
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 03:59:06 pm
+Duracion del ban: PERMANENTE
+Admin que banea: cocacolaaa
+Proxy Admin: 179.8.162.253
+IP Admin: 179.8.162.253
+--------------------------------------------------------
+Nombre baneado: Angel Bastian
+Fecha baneado: 2014-11-23
+RazÛn: Insultos a la administraci?n
+Hora baneo: 11:21:47 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: xHebHaH
+Proxy Admin: 186.36.74.163
+IP Admin: 186.36.74.163
+--------------------------------------------------------
+Nombre baneado: Alexander Lopez
+Fecha baneado: 2014-11-23
+RazÛn: Spam
+Hora baneo: 12:06:43 am
+Duracion del ban: 2 semanas (2014/12/08)
+Admin que banea: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: prueba
+Fecha baneado: 2014-11-24
+RazÛn: Spam
+Hora baneo: 10:42:34 pm
+Duracion del ban: 2 semanas (2014/12/08)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: prueba
+Fecha baneado: 2014-11-24
+RazÛn: Gore
+Hora baneo: 10:45:22 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: prueba
+Fecha baneado: 2014-11-24
+RazÛn: Xenofobia
+Hora baneo: 10:52:48 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: AndrÈs Orellanaa
+Fecha baneado: 2014-11-24
+RazÛn: Venta no autorizada
+Hora baneo: 01:02:19 am
+Duracion del ban: 1 mes (2014/12/25)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jaya Chandran
+Fecha baneado: 2014-11-26
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 10:51:47 am
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Alexis Ignacio Torres Hern·ndez
+Fecha baneado: 2014-11-26
+RazÛn: Venta no autorizada
+Hora baneo: 04:55:11 pm
+Duracion del ban: 1 mes (2014/12/26)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Caeza Doopy
+Fecha baneado: 2014-11-26
+RazÛn: Venta no autorizada
+Hora baneo: 11:08:26 pm
+Duracion del ban: 1 mes (2014/12/26)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Maestro Otaku Otaku Quezada
+Fecha baneado: 2014-11-26
+RazÛn: Spam
+Hora baneo: 12:50:32 am
+Duracion del ban: 2 semanas (2014/12/11)
+Admin que banea: Ashes
+Proxy Admin: 173.245.48.151
+IP Admin: 190.45.8.167, 173.245.48.151
+--------------------------------------------------------
+Nombre baneado: Manuel Troncoso
+Fecha baneado: 2014-11-26
+RazÛn: Spam
+Hora baneo: 01:19:00 am
+Duracion del ban: 2 semanas (2014/12/11)
+Admin que banea: peshotes
+Proxy Admin: 108.162.212.145
+IP Admin: 181.72.113.60, 108.162.212.145
+--------------------------------------------------------
+Nombre baneado: Matias Nicolas Erices Torre
+Fecha baneado: 2014-11-27
+RazÛn: Spam
+Hora baneo: 03:21:28 am
+Duracion del ban: 2 semanas (2014/12/11)
+Admin que banea: xHebHaH
+Proxy Admin: 108.162.212.112
+IP Admin: 186.36.74.163, 108.162.212.112
+--------------------------------------------------------
+Nombre baneado: Gamersx Chile
+Fecha baneado: 2014-11-27
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 01:09:14 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Castillo
+Fecha baneado: 2014-11-27
+RazÛn: Gore
+Hora baneo: 11:41:16 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Diego Andres
+Fecha baneado: 2014-11-27
+RazÛn: Venta no autorizada
+Hora baneo: 12:34:24 am
+Duracion del ban: 1 mes (2014/12/28)
+Admin que banea: xHebHaH
+Proxy Admin: 186.36.74.163
+IP Admin: 186.36.74.163
+--------------------------------------------------------
+Nombre baneado: Cristopher Reyes Luna
+Fecha baneado: 2014-11-27
+RazÛn: Spam
+Hora baneo: 01:31:40 am
+Duracion del ban: 2 semanas (2014/12/12)
+Admin que banea: peshotes
+Proxy Admin: 108.162.212.145
+IP Admin: 181.72.113.60, 108.162.212.145
+--------------------------------------------------------
+Nombre baneado: Vitersh Mucha Hambre
+Fecha baneado: 2014-11-28
+RazÛn: Venta no autorizada
+Hora baneo: 05:40:28 pm
+Duracion del ban: 1 mes (2014/12/28)
+Admin que banea: peshotes
+Proxy Admin: 108.162.212.145
+IP Admin: 181.72.113.60, 108.162.212.145
+--------------------------------------------------------
+Nombre baneado: Jean Stefan Espinoza
+Fecha baneado: 2014-11-29
+RazÛn: Venta no autorizada
+Hora baneo: 04:02:06 pm
+Duracion del ban: 1 mes (2014/12/29)
+Admin que banea: xHebHaH
+Proxy Admin: 186.36.74.163
+IP Admin: 186.36.74.163
+--------------------------------------------------------
+Nombre baneado: Enzo Javier
+Fecha baneado: 2014-11-30
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 07:39:20 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Brayan Cueto MuÒoz
+Fecha baneado: 2014-11-30
+RazÛn: Pornografia
+Hora baneo: 07:41:52 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jorge Alejandro
+Fecha baneado: 2014-11-30
+RazÛn: Spam
+Hora baneo: 01:49:32 am
+Duracion del ban: 2 semanas (2014/12/15)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Matias Mauricio Astur Henriquez
+Fecha baneado: 2014-12-01
+RazÛn: Spam
+Hora baneo: 12:11:38 pm
+Duracion del ban: 2 semanas (2014/12/15)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Daniel Rivera
+Fecha baneado: 2014-12-01
+RazÛn: Referidos
+Hora baneo: 12:12:35 pm
+Duracion del ban: 1 semana (2014/12/08)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Valentina Brauer
+Fecha baneado: 2014-12-01
+RazÛn: Spam
+Hora baneo: 08:31:34 pm
+Duracion del ban: 2 semanas (2014/12/15)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Diego Gutierrez
+Fecha baneado: 2014-12-01
+RazÛn: Spam
+Hora baneo: 09:07:17 pm
+Duracion del ban: 2 semanas (2014/12/15)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Ponte A La Moda
+Fecha baneado: 2014-12-01
+RazÛn: Venta no autorizada + cuenta FAKE-BOT
+Hora baneo: 10:24:29 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jose Moises Poblete Gamboa
+Fecha baneado: 2014-12-01
+RazÛn: Cadenas facebook
+Hora baneo: 10:26:16 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Alexander Mena
+Fecha baneado: 2014-12-01
+RazÛn: Spam
+Hora baneo: 11:00:21 pm
+Duracion del ban: 2 semanas (2014/12/15)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Bastian XD Onur Bellaco
+Fecha baneado: 2014-12-01
+RazÛn: Cadenas facebook
+Hora baneo: 11:09:37 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Maiar˙ Marcos
+Fecha baneado: 2014-12-02
+RazÛn: Venta no autorizada
+Hora baneo: 05:40:14 pm
+Duracion del ban: 1 mes (2015/01/02)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Fabian Leal Assault
+Fecha baneado: 2014-12-02
+RazÛn: Spam virus de facebook
+Hora baneo: 06:06:03 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Nelson Gabriel
+Fecha baneado: 2014-12-02
+RazÛn: Cadenas facebook
+Hora baneo: 11:09:32 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jorge Eduardo
+Fecha baneado: 2014-12-02
+RazÛn: Venta no autorizada
+Hora baneo: 12:36:26 am
+Duracion del ban: 1 mes (2015/01/03)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Maximo Fabian
+Fecha baneado: 2014-12-03
+RazÛn: Cadenas facebook
+Hora baneo: 12:39:36 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Linda Hidestrand
+Fecha baneado: 2014-12-03
+RazÛn: Concursos sin autorizaciÛn
+Hora baneo: 12:40:45 pm
+Duracion del ban: 2 semanas (2014/12/17)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Luis Alejandro Melville
+Fecha baneado: 2014-12-03
+RazÛn: Venta no autorizada
+Hora baneo: 01:13:18 pm
+Duracion del ban: 1 mes (2015/01/03)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Martin Stojanovski
+Fecha baneado: 2014-12-03
+RazÛn: Spam
+Hora baneo: 05:30:47 pm
+Duracion del ban: 2 semanas (2014/12/17)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: CristÌan ValdÈs Vera
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:06:56 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pau Longa XD
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:07:34 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Diego Montenegro Vergara
+Fecha baneado: 2014-12-03
+RazÛn: Referidos
+Hora baneo: 07:07:54 pm
+Duracion del ban: 1 semana (2014/12/10)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Matias Gonzalez Nilo
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:10:54 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Matias Pereira Leon
+Fecha baneado: 2014-12-03
+RazÛn: Referidos
+Hora baneo: 07:13:52 pm
+Duracion del ban: 1 semana (2014/12/10)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Isaac Abraham Aww
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:14:29 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Nacho Roa
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:18:40 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Balthazar Hammet
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:19:27 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: HÈctor Macaya
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:23:25 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Williams Besnier Pavez
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:26:09 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Sebasti·n AndrÈs Fern·ndez Burgos
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:27:26 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Sebasti·n Kriegerkˆnige
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:31:53 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristox Lopez
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:32:34 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jairo Andrees
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:36:43 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Nicolas Ignacio Cortes Santander
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:37:41 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Gonzalo AndrÈs Quinteros Silva
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:38:17 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Niko Weon Culiao La Wea Sajdhsakjdha
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:38:43 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Luciano Painehual Cadin
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:47:00 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Matias Reyes Herrera
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 07:59:20 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Felipe Osorio
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 08:02:52 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Nico Garcia
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 08:28:05 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Matias Fernandez
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 08:28:17 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Sebastian Elgueta N˙Òez 
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 08:36:37 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Yeral Caryl Cuello Araya
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 08:37:21 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: CÈsar Silva
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:00:13 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Tomas Alfaro
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:03:34 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Claudio MuÒoz Marin
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:10:58 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Diego Leonardo Campillay Manriquez
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:12:56 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Javier Andres Ubillo Bermudez
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:18:02 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jairo Duarte Sb
+Fecha baneado: 2014-12-03
+RazÛn: Denunciar grupos al azar
+Hora baneo: 12:33:31 am
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Diego Vergara Bustos
+Fecha baneado: 2014-12-04
+RazÛn: Denunciar grupos al azar
+Hora baneo: 11:28:43 am
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+Proxy Admin: 186.36.74.163
+IP Admin: 186.36.74.163
+--------------------------------------------------------
+Nombre baneado: Kat
+Fecha baneado: 2014-12-04
+RazÛn: Xenofobia
+Hora baneo: 03:00:03 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Richard GarcÈs Villarroel
+Fecha baneado: 2014-12-04
+RazÛn: Denunciar grupos al azar
+Hora baneo: 05:06:25 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alegria
+Fecha baneado: 2014-12-04
+RazÛn: Spam
+Hora baneo: 07:13:52 pm
+Duracion del ban: 2 semanas (2014/12/18)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Johan Reaper Shatered Ros
+Fecha baneado: 2014-12-04
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:51:10 pm
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+Proxy Admin: 186.36.74.163
+IP Admin: 186.36.74.163
+--------------------------------------------------------
+Nombre baneado: Jhonny Galaz Barra
+Fecha baneado: 2014-12-04
+RazÛn: Denunciar grupos al azar
+Hora baneo: 11:17:50 pm
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+Proxy Admin: 186.36.74.163
+IP Admin: 186.36.74.163
+--------------------------------------------------------
+Nombre baneado: Diego Ignacio Jeria
+Fecha baneado: 2014-12-05
+RazÛn: Denunciar grupos al azar
+Hora baneo: 02:46:42 pm
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+Proxy Admin: 186.36.74.163
+IP Admin: 186.36.74.163
+--------------------------------------------------------
+Nombre baneado: Felipe Osorio
+Fecha baneado: 2014-12-06
+RazÛn: Denunciar grupos al azar
+Hora baneo: 03:46:21 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Sebastian Alejandro Malebran Reyes
+Fecha baneado: 2014-12-06
+RazÛn: Insultos a la AdministraciÛn
+Hora baneo: 07:19:49 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+Proxy Admin: 191.112.52.154
+IP Admin: 191.112.52.154
+--------------------------------------------------------
+Nombre baneado: Cristi·n Kj
+Fecha baneado: 2014-12-06
+RazÛn: Insultos usuarios
+Hora baneo: 09:13:26 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: TaroCL
+Proxy Admin: 201.215.25.248
+IP Admin: 201.215.25.248
+--------------------------------------------------------
+Nombre baneado: Benjamin Ignacio Pan Con Margarina
+Fecha baneado: 2014-12-06
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:25:50 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Thofer Hernandez
+Fecha baneado: 2014-12-06
+RazÛn: Denunciar grupos al azar
+Hora baneo: 09:30:12 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Xd Kawai Xd
+Fecha baneado: 2014-12-07
+RazÛn: Cuenta FAKE-BOT
+Hora baneo: 01:16:46 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Borracho Master
+Fecha baneado: 2014-12-07
+RazÛn: Cuenta FAKE-BOT
+Hora baneo: 04:40:12 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Borracho Master
+Fecha baneado: 2014-12-07
+RazÛn: Cuenta FAKE-BOT
+Hora baneo: 04:52:43 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Borracho Master
+Fecha baneado: 2014-12-07
+RazÛn: Cuenta FAKE-BOT
+Hora baneo: 04:55:42 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Borracho Master
+Fecha baneado: 2014-12-07
+RazÛn: Cuenta FAKE-BOT
+Hora baneo: 04:57:06 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Borracho Master
+Fecha baneado: 2014-12-07
+RazÛn: Cuenta FAKE-BOT
+Hora baneo: 06:11:08 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Chum Lee
+Fecha baneado: 2014-12-07
+RazÛn: Usar grupo como inicio
+Hora baneo: 06:12:20 pm
+Duracion del ban: 1 semana (2014/12/14)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Axl Rodriguez Rojas
+Fecha baneado: 2014-12-08
+RazÛn: Bullying
+Hora baneo: 02:44:29 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+Proxy Admin: 190.45.8.167
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Guillermo Lorca
+Fecha baneado: 2014-12-10
+RazÛn: Venta no autorizada
+Hora baneo: 11:27:37 am
+Duracion del ban: 1 mes (2015/01/10)
+Admin que banea: Wildchild
+Proxy Admin: 164.77.46.121
+IP Admin: 164.77.46.121
+--------------------------------------------------------
+Nombre baneado: Fabi·n Nicol·s
+Fecha baneado: 2014-12-10
+RazÛn: Spam
+Hora baneo: 12:44:57 pm
+Duracion del ban: 2 semanas (2014/12/24)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Franco Salgado
+Fecha baneado: 2014-12-10
+RazÛn: Venta no autorizada
+Hora baneo: 05:18:49 pm
+Duracion del ban: 1 mes (2015/01/10)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Shockblade Maauri
+Fecha baneado: 2014-12-10
+RazÛn: Cadenas facebook
+Hora baneo: 07:42:28 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Luis Kappita
+Fecha baneado: 2014-12-11
+RazÛn: Spam virus de facebook
+Hora baneo: 08:58:39 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristian Diaz
+Fecha baneado: 2014-12-11
+RazÛn: Referidos
+Hora baneo: 01:40:26 am
+Duracion del ban: 1 semana (2014/12/19)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristian Caceres
+Fecha baneado: 2014-12-17
+RazÛn: Spam
+Hora baneo: 05:29:29 pm
+Duracion del ban: 2 semanas (2014/12/31)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristian Caceres
+Fecha baneado: 2014-12-17
+RazÛn: Spam
+Hora baneo: 05:29:50 pm
+Duracion del ban: 2 semanas (2014/12/31)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Bastian YaÒez
+Fecha baneado: 2014-12-17
+RazÛn: Spam virus de facebook
+Hora baneo: 06:08:07 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Itzamma Balam Bej
+Fecha baneado: 2014-12-18
+RazÛn: Spam
+Hora baneo: 08:44:01 pm
+Duracion del ban: 2 semanas (2015/01/01)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Heztorvo Con Piez
+Fecha baneado: 2014-12-18
+RazÛn: Spam virus de facebook
+Hora baneo: 10:47:57 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristobal Neko Kawaii Ctm
+Fecha baneado: 2014-12-20
+RazÛn: Spam virus de facebook
+Hora baneo: 03:45:28 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Felipe Caeza LÛpez
+Fecha baneado: 2014-12-20
+RazÛn: Venta no autorizada
+Hora baneo: 07:26:26 pm
+Duracion del ban: 1 mes (2015/01/20)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Miguel Raul Espinoza Dauvergne
+Fecha baneado: 2014-12-21
+RazÛn: Venta no autorizada
+Hora baneo: 02:23:24 am
+Duracion del ban: 1 mes (2015/01/21)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jaime Eduardo Mendez YaÒez
+Fecha baneado: 2014-12-23
+RazÛn: Spam
+Hora baneo: 07:44:42 pm
+Duracion del ban: 2 semanas (2015/01/06)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Eduardo Soares
+Fecha baneado: 2014-12-24
+RazÛn: Spam
+Hora baneo: 03:30:03 pm
+Duracion del ban: 2 semanas (2015/01/07)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Quang B Mw
+Fecha baneado: 2014-12-25
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 03:38:04 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Sergio Cardenas Gajardo
+Fecha baneado: 2014-12-25
+RazÛn: Venta no autorizada
+Hora baneo: 04:05:23 pm
+Duracion del ban: 1 mes (2015/01/25)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Antonio Fuentes Carranza
+Fecha baneado: 2014-12-27
+RazÛn: Venta no autorizada
+Hora baneo: 12:02:05 am
+Duracion del ban: 1 mes (2015/01/27)
+Admin que banea: wildchild
+Proxy Admin: 181.161.140.104
+IP Admin: 181.161.140.104
+--------------------------------------------------------
+Nombre baneado: Matt Sylvia
+Fecha baneado: 2014-12-27
+RazÛn: Spam
+Hora baneo: 02:43:39 pm
+Duracion del ban: 2 semanas (2015/01/10)
+Admin que banea: xHebHaH
+Proxy Admin: 190.45.8.52
+IP Admin: 190.45.8.52
+--------------------------------------------------------
+Nombre baneado: Mirko Cortes MuÒoz
+Fecha baneado: 2014-12-27
+RazÛn: Spam
+Hora baneo: 04:44:15 pm
+Duracion del ban: 2 semanas (2015/01/10)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Ameth Enrique Barrios
+Fecha baneado: 2014-12-27
+RazÛn: Spam virus de facebook
+Hora baneo: 05:43:13 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Claudio Benjamin Pezo Sanhueza
+Fecha baneado: 2014-12-28
+RazÛn: Spam
+Hora baneo: 01:42:16 am
+Duracion del ban: 2 semanas (2015/01/11)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: RubÈn Alexis Pereira Barrera
+Fecha baneado: 2014-12-29
+RazÛn: Venta no autorizada
+Hora baneo: 06:19:41 am
+Duracion del ban: 1 mes (2015/01/29)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: https://www.facebook.com/moises.bugueno.9?fref=nf
+Fecha baneado: 2014-12-29
+RazÛn: Spam
+Hora baneo: 11:53:03 pm
+Duracion del ban: 2 semanas (2015/01/12)
+Admin que banea: wildchild
+Proxy Admin: 186.79.149.49
+IP Admin: 186.79.149.49
+--------------------------------------------------------
+Nombre baneado: L&#7841;c Ly
+Fecha baneado: 2014-12-30
+RazÛn: Spam + cuenta FAKE-BOT
+Hora baneo: 11:55:46 am
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+Proxy Admin: 190.45.8.52
+IP Admin: 190.45.8.52
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 07:06:34 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 07:25:03 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 07:28:42 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 07:36:16 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 07:46:48 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 07:49:01 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 08:03:47 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Fecha baneado: 2014-12-30
+RazÛn: Spam
+Hora baneo: 08:05:45 pm
+Duracion del ban: 2 semanas (2015/01/13)
+Admin que banea: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: test
+Fecha baneado: 
+Raz√≥n: Denunciar grupos al azar
+Hora baneo: 01:38:58 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: test2
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 01:39:55 pm
+Duracion del ban: 2 semanas (2015/10/29)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Vicente Rojas Lardies
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 10:34:55 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Masive Abism
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 10:59:29 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nico Fernando Sepulveda Diaz
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 01:00:45 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nick Cavieres
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 01:28:11 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: jorge barrett
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 03:44:46 am
+Duracion del ban: 2 semanas (2015/10/30)
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Alejandro Shichimiyalove Namikaze 
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 06:24:09 pm
+Duracion del ban: 1 mes (2015/11/16)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Alonso Moyano
+Fecha baneado: 
+Raz√≥n: Decision administrativa
+Hora baneo: 11:52:12 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Kevin Gabriel
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 05:32:27 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Leon Hart
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 12:34:25 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Thesilence
+IP Admin: 181.161.134.186
+--------------------------------------------------------
+Nombre baneado: Lucas Meneses
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 12:34:39 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Thesilence
+IP Admin: 181.161.134.186
+--------------------------------------------------------
+Nombre baneado: Akira Matsu
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 12:34:54 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Thesilence
+IP Admin: 181.161.134.186
+--------------------------------------------------------
+Nombre baneado: Daniel Aranda
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 12:37:06 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: felipeloyy
+IP Admin: 190.160.22.222
+--------------------------------------------------------
+Nombre baneado: Luis Suazo
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 01:00:19 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Thesilence
+IP Admin: 181.161.134.186
+--------------------------------------------------------
+Nombre baneado: Jonathan Dickens
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 01:25:49 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Julio Ignacio Olave Cort√©s
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:54:36 pm
+Duracion del ban: 2 semanas (2015/11/01)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Alejandro Yepes
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 10:27:40 pm
+Duracion del ban: 1 mes (2015/11/18)
+Admin que banea: Thesilence
+IP Admin: 186.79.154.144
+--------------------------------------------------------
+Nombre baneado:  Robinson Wuili Huilipang
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 10:14:38 pm
+Duracion del ban: 2 semanas (2015/11/02)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Jorge Barrett
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:45:52 am
+Duracion del ban: 2 semanas (2015/11/03)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Camilo Alexis Carmona
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 02:22:27 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Juan Mondaca
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 01:02:28 am
+Duracion del ban: 1 mes (2015/11/22)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: sebastian ossandon
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 01:47:39 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Fernando Castro
+Fecha baneado: 
+Raz√≥n: Decision administrativa
+Hora baneo: 04:57:25 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: ADMINISTRACION
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Onur Sebasti√°n
+Fecha baneado: 
+Raz√≥n: Decision administrativa
+Hora baneo: 05:10:22 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: ADMINISTRACION
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: V√≠ctor Manuel Arriola
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 07:10:16 pm
+Duracion del ban: 1 mes (2015/11/24)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado:  Geronimo Felipe Lopez
+Fecha baneado: 
+Raz√≥n: Decision administrativa
+Hora baneo: 11:55:25 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: ADMINISTRACION
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Seba Rodriguez
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:43:08 pm
+Duracion del ban: 2 semanas (2015/11/09)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Victor Alejandro Pinochet Silva
+Fecha baneado: 
+Raz√≥n: Venta no autorizada + cuenta FAKE-BOT
+Hora baneo: 12:13:13 am
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 186.105.251.128
+--------------------------------------------------------
+Nombre baneado: Victor Alejandro Pinochet Silva
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 12:15:53 am
+Duracion del ban: 1 mes (2015/11/27)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: fabian deskriteriado
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 01:38:18 am
+Duracion del ban: 1 mes (2015/11/27)
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Peurd Pedur Peurd
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 06:41:49 pm
+Duracion del ban: 1 mes (2015/11/28)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Izzak Ojeda Cavada
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 09:14:21 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 186.105.156.240
+--------------------------------------------------------
+Nombre baneado: Javier Pe√±a
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 10:47:51 pm
+Duracion del ban: 1 semana (2015/11/05)
+Admin que banea: Zatokz12
+IP Admin: 186.105.156.240
+--------------------------------------------------------
+Nombre baneado: Dilan Sierra
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 11:18:50 pm
+Duracion del ban: 2 semanas (2015/11/14)
+Admin que banea: xHebHaH
+IP Admin: 190.46.81.237
+--------------------------------------------------------
+Nombre baneado: Miguel Donoso
+Fecha baneado: 
+Raz√≥n: Spam virus de facebook
+Hora baneo: 11:19:55 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Hugo Cofre
+Fecha baneado: 
+Raz√≥n: Spam virus de facebook
+Hora baneo: 11:01:47 am
+Duracion del ban: PERMANENTE
+Admin que banea: Thesilence
+IP Admin: 186.79.148.106
+--------------------------------------------------------
+Nombre baneado: tuestron oca
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:51:31 pm
+Duracion del ban: 2 semanas (2015/11/15)
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Hector Salazar
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 03:04:24 pm
+Duracion del ban: 1 semana (2015/11/09)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado:  Marcelo Jonathan
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:06:56 am
+Duracion del ban: 2 semanas (2015/11/18)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Piter Caicedo
+Fecha baneado: 
+Raz√≥n: Gore
+Hora baneo: 07:42:38 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado:  Fernando Pe√±a Fuenzalida
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:32:04 am
+Duracion del ban: 2 semanas (2015/11/25)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado:  Mohammed
+Fecha baneado: 
+Raz√≥n: Venta no autorizada + cuenta FAKE-BOT
+Hora baneo: 09:18:21 pm
+Duracion del ban: PERMANENTE
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Matias Ignacio Henriquez Torres
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 04:03:56 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Ivan Enrique Vega Saldivar
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:32:02 am
+Duracion del ban: 2 semanas (2015/11/29)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: L'ucas K'√Æ√Æng
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 06:42:48 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: Rayo Macuin Run Run
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 08:49:21 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: Soran O. Assi
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 03:01:38 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Javier Andres Aravena
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:56:37 pm
+Duracion del ban: 2 semanas (2015/12/03)
+Admin que banea: Thesilence
+IP Admin: 186.79.182.184
+--------------------------------------------------------
+Nombre baneado: Nico Andr√©s Jaque
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 01:07:51 am
+Duracion del ban: 2 semanas (2015/12/04)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Alex Funker Quesada
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 01:50:14 am
+Duracion del ban: 2 semanas (2015/12/04)
+Admin que banea: Zatokz12
+IP Admin: 186.105.157.109
+--------------------------------------------------------
+Nombre baneado: Felipe de la Vega
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 02:12:18 pm
+Duracion del ban: 1 semana (2015/11/27)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: David Alejandro
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 05:36:40 pm
+Duracion del ban: 2 semanas (2015/12/04)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Cristian Vargas 
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 03:28:07 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Ernesto Figueredo Martinez
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 12:40:35 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Mauricio Molina
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 07:53:44 pm
+Duracion del ban: 1 semana (2015/12/02)
+Admin que banea: gansta
+IP Admin: 190.47.208.112
+--------------------------------------------------------
+Nombre baneado: Yaphets Hilario Asto
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 08:14:57 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Jotanan Hernan Suleiman
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 11:56:06 am
+Duracion del ban: 1 mes (2015/12/29)
+Admin que banea: felipeloyy
+IP Admin: 190.160.22.222
+--------------------------------------------------------
+Nombre baneado: Vicente Barrales 
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 07:13:48 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Roberto Solano
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 02:28:58 am
+Duracion del ban: 2 semanas (2015/12/18)
+Admin que banea: Zatokz12
+IP Admin: 186.105.189.75
+--------------------------------------------------------
+Nombre baneado: Alberto Ampuero Barria
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 01:37:31 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: xHebHaH
+IP Admin: 190.46.81.237
+--------------------------------------------------------
+Nombre baneado: Mariana Bella 
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 10:44:33 am
+Duracion del ban: 1 semana (2015/12/19)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Matias Miranda
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 11:41:08 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Lucas Alejandro Geis Catanzaro
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 09:29:12 pm
+Duracion del ban: 1 semana (2015/12/21)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Marty Mac fluy'The Rial 
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 09:29:52 pm
+Duracion del ban: 1 semana (2015/12/21)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Marty Mac fluy'The Rial
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 09:30:59 pm
+Duracion del ban: 1 semana (2015/12/21)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Freddy Neculpan Arriagada
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 10:26:07 pm
+Duracion del ban: 2 semanas (2015/12/28)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Gata Norris
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:34:40 pm
+Duracion del ban: 2 semanas (2015/12/29)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Fercerr Di
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:35:27 pm
+Duracion del ban: 2 semanas (2015/12/29)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Rob Vasquez Ortiz
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 11:51:11 am
+Duracion del ban: 1 mes (2016/01/16)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Fede Nicol√°s Acosta
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 06:27:00 pm
+Duracion del ban: 2 semanas (2015/12/30)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Edu Molina Alvarez 
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 07:48:56 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Javier Alonso Merino Gonzalez
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 01:40:58 am
+Duracion del ban: 1 mes (2016/01/17)
+Admin que banea: Zatokz12
+IP Admin: 186.105.192.30
+--------------------------------------------------------
+Nombre baneado: Sebasti√°n Valdivieso
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:17:49 pm
+Duracion del ban: 2 semanas (2015/12/31)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nelson Astudillo Oviedo
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 03:24:52 pm
+Duracion del ban: 2 semanas (2016/01/02)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Ignacio Echibur√∫ Uribe
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:49:15 pm
+Duracion del ban: 2 semanas (2016/01/03)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Cesar Mella Diaz
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 12:39:46 pm
+Duracion del ban: 1 mes (2016/01/21)
+Admin que banea: Thesilence
+IP Admin: 186.79.189.138
+--------------------------------------------------------
+Nombre baneado: komal shah
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 05:12:09 pm
+Duracion del ban: PERMANENTE
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Alvaro Carrasco
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 11:08:23 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: J Esteban Valenzuela
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 02:36:30 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado:  Nicolas Hernandez
+Fecha baneado: 
+Raz√≥n: Concursos sin autorizacion
+Hora baneo: 03:14:04 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Alexis Nicolas Villalona
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 08:28:43 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Agustin Mora
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 01:58:28 am
+Duracion del ban: 1 mes (2016/01/30)
+Admin que banea: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Arthur Castro
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 02:30:00 pm
+Duracion del ban: 2 semanas (2016/01/14)
+Admin que banea: Thesilence
+IP Admin: 181.161.184.24
+--------------------------------------------------------
+Nombre baneado: angel bastian
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:23:36 am
+Duracion del ban: 2 semanas (2016/01/16)
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: danilo mella
+Fecha baneado: 
+Raz√≥n: Usar grupo como inicio
+Hora baneo: 02:25:08 am
+Duracion del ban: 1 semana (2016/01/10)
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Beatriz Sousa Oliveira
+Fecha baneado: 
+Raz√≥n: Cuenta FAKE-BOT
+Hora baneo: 07:04:08 pm
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+IP Admin: 186.156.19.230
+--------------------------------------------------------
+Nombre baneado: Elizabeth Toro Parada
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 11:04:04 pm
+Duracion del ban: 1 mes (2016/02/03)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: cristian mardones
+Fecha baneado: 
+Raz√≥n: Usar grupo como inicio
+Hora baneo: 06:09:34 am
+Duracion del ban: 1 semana (2016/01/11)
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Felipe Araya
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 03:15:59 pm
+Duracion del ban: 2 semanas (2016/01/18)
+Admin que banea: Zatokz12
+IP Admin: 186.105.214.244
+--------------------------------------------------------
+Nombre baneado: Rodrigo Barrientos
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 03:19:32 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 186.105.214.244
+--------------------------------------------------------
+Nombre baneado: Vicente Pachamama Ram√≠rez
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 03:25:56 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 186.105.214.244
+--------------------------------------------------------
+Nombre baneado: Nicolas Andres
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 03:28:44 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 186.105.214.244
+--------------------------------------------------------
+Nombre baneado: Joshe Ignacio
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 09:19:48 pm
+Duracion del ban: 1 semana (2016/01/11)
+Admin que banea: Zatokz12
+IP Admin: 186.105.214.244
+--------------------------------------------------------
+Nombre baneado: eme freeman
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 02:41:31 am
+Duracion del ban: 2 semanas (2016/01/19)
+Admin que banea: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Ricardo Emanuel Pinchon Manriquez
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 11:28:24 pm
+Duracion del ban: 2 semanas (2016/01/21)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Mati As
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:09:01 pm
+Duracion del ban: 2 semanas (2016/01/22)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Jose Erthmanoh Khe Uea
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 11:35:59 pm
+Duracion del ban: 2 semanas (2016/01/22)
+Admin que banea: Thesilence
+IP Admin: 181.161.175.7
+--------------------------------------------------------
+Nombre baneado: Cobby Bryan
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 04:51:59 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Felipe Ignacio
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 01:46:24 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: xHebHaH
+IP Admin: 186.156.19.230
+--------------------------------------------------------
+Nombre baneado: Nico Aberracion 
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 02:54:43 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Thesilence
+IP Admin: 186.79.188.14
+--------------------------------------------------------
+Nombre baneado: Cristian Rh√´n
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 01:48:45 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nicolas Gallardo Z
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 07:24:06 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Brandon Giovanni 
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:24:47 pm
+Duracion del ban: 2 semanas (2016/01/27)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Tomii Garbuglia
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:27:02 pm
+Duracion del ban: 2 semanas (2016/01/27)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nicol√°s Basti√°n
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 01:15:52 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Samuel Jonathan Martinez Baeza
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:59:01 pm
+Duracion del ban: 2 semanas (2016/01/29)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Matias Maldonado
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 11:23:51 pm
+Duracion del ban: 2 semanas (2016/01/31)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Ren√© Arancibia Montecinos
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 12:38:12 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nico Aliste Ibarra
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 03:13:33 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 186.105.148.212
+--------------------------------------------------------
+Nombre baneado: Emir Castro
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 10:03:21 pm
+Duracion del ban: 2 semanas (2016/02/02)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Marcos Contreras Barrios
+Fecha baneado: 
+Raz√≥n: Decision administrativa
+Hora baneo: 10:31:42 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: xHebHaH
+IP Admin: 186.156.19.230
+--------------------------------------------------------
+Nombre baneado: Ronan Garcia Vera
+Fecha baneado: 
+Raz√≥n: Spam virus de facebook
+Hora baneo: 08:09:32 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 186.105.173.139
+--------------------------------------------------------
+Nombre baneado: Moise Alpine
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 01:27:42 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: xHebHaH
+IP Admin: 186.156.19.230
+--------------------------------------------------------
+Nombre baneado: Danko Espinoza
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 06:57:26 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Mario Wario Donoso
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 09:00:57 pm
+Duracion del ban: 1 mes (2016/02/25)
+Admin que banea: Thesilence
+IP Admin: 181.161.144.173
+--------------------------------------------------------
+Nombre baneado: Usagi Chan
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 03:34:44 pm
+Duracion del ban: 2 semanas (2016/02/09)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nicolas Barrera
+Fecha baneado: 
+Raz√≥n: Bloquear admin
+Hora baneo: 11:06:28 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Gianlu Urrutia
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 01:59:47 pm
+Duracion del ban: 1 mes (2016/02/27)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Celia Guadalupe Ledesma Cruz
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 07:10:49 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Jaime Castro
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 07:12:49 pm
+Duracion del ban: 2 semanas (2016/02/12)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Ali Jarir
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 07:14:34 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Thomy Hoffer 
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 11:29:55 pm
+Duracion del ban: 2 semanas (2016/02/12)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Matias Andres Gonzalez Guzman 
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 12:58:32 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Pablo Sebastian Gonzalez Godoy
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 01:52:53 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 190.47.79.248
+--------------------------------------------------------
+Nombre baneado: Panxeeto Maturana
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 02:37:55 pm
+Duracion del ban: 2 semanas (2016/02/16)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nicko Rivera
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 02:40:09 pm
+Duracion del ban: 2 semanas (2016/02/16)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Cristian Bustos De Mi Maiter
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:01:12 am
+Duracion del ban: 2 semanas (2016/02/17)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Daniel Alejandro Retamal Rojas
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 12:16:52 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Lucrecio Israel
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 03:49:00 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Andy Olivares
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:50:40 pm
+Duracion del ban: 2 semanas (2016/02/24)
+Admin que banea: Thesilence
+IP Admin: 186.79.169.139
+--------------------------------------------------------
+Nombre baneado: Andy Olivares
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:50:42 pm
+Duracion del ban: 2 semanas (2016/02/24)
+Admin que banea: Thesilence
+IP Admin: 186.79.169.139
+--------------------------------------------------------
+Nombre baneado: Oliver Reyes
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 08:07:18 pm
+Duracion del ban: 1 semana (2016/02/18)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Danko Cross ElRenacido
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 08:13:38 pm
+Duracion del ban: 2 semanas (2016/02/25)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Sebastian BeGone
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 08:15:24 pm
+Duracion del ban: 2 semanas (2016/02/25)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Daniel Hernan Zamora Villegas
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 08:18:31 pm
+Duracion del ban: 2 semanas (2016/02/25)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Korab Podrimaj 
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 08:22:40 pm
+Duracion del ban: 2 semanas (2016/02/25)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Mario Sep√∫lveda Allende
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 03:33:46 pm
+Duracion del ban: 2 semanas (2016/02/29)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Franco Galindo
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 03:36:03 pm
+Duracion del ban: 1 mes (2016/03/15)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: FackDiexis Hcm 
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 11:57:15 pm
+Duracion del ban: 1 mes (2016/03/15)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Oliver Santos Pi√±a
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 11:59:31 pm
+Duracion del ban: 2 semanas (2016/02/29)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Mauromagno Patriota
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 05:59:01 pm
+Duracion del ban: 2 semanas (2016/03/01)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Waleska Hultzsch
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 06:00:23 pm
+Duracion del ban: 2 semanas (2016/03/01)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Mizangame Gaming
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 08:20:12 pm
+Duracion del ban: 2 semanas (2016/03/02)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Jorge Andres
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 02:00:41 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Khen
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 05:10:25 pm
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+IP Admin: 190.45.45.226
+--------------------------------------------------------
+Nombre baneado: Sergio Alfonso
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:59:02 pm
+Duracion del ban: 2 semanas (2016/03/06)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Diego Pulento Wom
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 08:21:53 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Diego Pulento Wom
+Fecha baneado: 
+Raz√≥n: Pornografia
+Hora baneo: 08:32:51 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Thesilence
+IP Admin: 186.79.155.69
+--------------------------------------------------------
+Nombre baneado: Camila Francisca Betania
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 08:42:00 pm
+Duracion del ban: 1 mes (2016/03/22)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Yahir Cuello
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 08:40:37 pm
+Duracion del ban: 1 mes (2016/03/23)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Karenciwis Fernandez Silva
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:13:27 am
+Duracion del ban: 2 semanas (2016/03/10)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Claudio Raw
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 04:07:38 pm
+Duracion del ban: 2 semanas (2016/03/11)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Iv√°n Alejandro
+Fecha baneado: 
+Raz√≥n: Bullying
+Hora baneo: 12:42:59 am
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 200.83.24.247
+--------------------------------------------------------
+Nombre baneado: Alfredo Nicolas Rodriguez Trigo
+Fecha baneado: 
+Raz√≥n: Bullying
+Hora baneo: 12:47:23 am
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 200.83.24.247
+--------------------------------------------------------
+Nombre baneado: Francisco Andr√© Do Santos
+Fecha baneado: 
+Raz√≥n: Bullying
+Hora baneo: 12:52:56 am
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 200.83.24.247
+--------------------------------------------------------
+Nombre baneado: Rose Fronda
+Fecha baneado: 
+Raz√≥n: Cuenta FAKE-BOT
+Hora baneo: 08:23:38 am
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 200.83.24.247
+--------------------------------------------------------
+Nombre baneado: Ignacio Antonio Huerta L.
+Fecha baneado: 
+Raz√≥n: Gore
+Hora baneo: 03:02:44 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 201.239.255.123
+--------------------------------------------------------
+Nombre baneado: Javier Brice√±o Palacios
+Fecha baneado: 
+Raz√≥n: Denunciar grupos al azar
+Hora baneo: 03:27:10 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Zatokz12
+IP Admin: 201.239.255.123
+--------------------------------------------------------
+Nombre baneado: Diana Palacios
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:35:09 pm
+Duracion del ban: 2 semanas (2016/03/17)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Tiio Kingamer
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:36:24 pm
+Duracion del ban: 2 semanas (2016/03/17)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Juan Miguel Carrasco Beroiza
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 12:17:18 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Mar√≠a Kawaii
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 10:29:24 pm
+Duracion del ban: 2 semanas (2016/03/19)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Fabian Alexis Perez del Mainkrah
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 10:32:36 pm
+Duracion del ban: 2 semanas (2016/03/19)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Gabriel Rojas Orrego
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 03:58:48 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Sebastian Faune Aburto
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 03:59:27 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Cristian Moreno
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 04:00:01 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Neil MobGame
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:08:58 pm
+Duracion del ban: 2 semanas (2016/03/21)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Kenixt Plays
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 08:03:24 pm
+Duracion del ban: 2 semanas (2016/03/21)
+Admin que banea: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Luis Alfredo Riquelme Soiza
+Fecha baneado: 
+Raz√≥n: Referidos
+Hora baneo: 05:11:27 pm
+Duracion del ban: 1 semana (2016/03/18)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Boris Carrasco
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 06:50:49 pm
+Duracion del ban: 2 semanas (2016/03/26)
+Admin que banea: Zatokz12
+IP Admin: 190.163.42.195
+--------------------------------------------------------
+Nombre baneado: Mario Contreras
+Fecha baneado: 
+Raz√≥n: Insultos a la administracion
+Hora baneo: 05:03:02 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Akira Rex
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:50:52 pm
+Duracion del ban: 2 semanas (2016/04/01)
+Admin que banea: karmikarms
+IP Admin: 190.22.189.50
+--------------------------------------------------------
+Nombre baneado: Karlos Araneda
+Fecha baneado: 
+Raz√≥n: Bloquear admin
+Hora baneo: 11:13:21 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: LukasQuebedo
+Fecha baneado: 
+Raz√≥n: Cuenta FAKE-BOT
+Hora baneo: 02:30:37 am
+Duracion del ban: PERMANENTE
+Admin que banea: xHebHaH
+IP Admin: 190.160.119.220
+--------------------------------------------------------
+Nombre baneado: Daniel Contreras
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 12:38:43 pm
+Duracion del ban: 1 mes (2016/04/20)
+Admin que banea: Thesilence
+IP Admin: 186.79.170.252
+--------------------------------------------------------
+Nombre baneado: Jeremy Delgado
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 06:35:30 pm
+Duracion del ban: 2 semanas (2016/04/03)
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Diego Stifler
+Fecha baneado: 
+Raz√≥n: Insultos usuarios
+Hora baneo: 09:41:06 pm
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Ronan Garcia Vera
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 03:27:39 pm
+Duracion del ban: 2 semanas (2016/04/04)
+Admin que banea: xHebHaH
+IP Admin: 190.45.45.226
+--------------------------------------------------------
+Nombre baneado: Gonzalo Flores Morales
+Fecha baneado: 
+Raz√≥n: Spam + cuenta FAKE-BOT
+Hora baneo: 08:28:24 pm
+Duracion del ban: PERMANENTE
+Admin que banea: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Pancho Cabello
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 09:07:16 pm
+Duracion del ban: 2 semanas (2016/04/06)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: dasdad
+Fecha baneado: 
+Raz√≥n: Venta no autorizada
+Hora baneo: 12:47:47 am
+Duracion del ban: 1 mes (2016/04/24)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Test
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 01:25:07 pm
+Duracion del ban: 2 semanas (2016/04/23)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: TEST
+Fecha baneado: 
+Raz√≥n: Spam stickers
+Hora baneo: 11:31:33 pm
+Duracion del ban: 2 semanas (2016/04/25)
+Admin que banea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Benjamin Bastian Alejandro Duran Navarrete
+Fecha baneado: 
+Raz√≥n: Insultos a la Administracion
+Hora baneo: 01:20:30 am
+Duracion del ban: El tipo de ban no esta sancionado
+Admin que banea: Zatokz12
+IP Admin: 190.100.115.227
+--------------------------------------------------------
+Nombre baneado: Alex Villarroel
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 03:19:56 pm
+Duracion del ban: 2 semanas (2016/04/27)
+Admin que banea: Ashes
+IP Admin: 190.164.163.44
+--------------------------------------------------------
+Nombre baneado: Benjamin Maldonado 
+Fecha baneado: 
+Raz√≥n: Spam
+Hora baneo: 12:18:01 am
+Duracion del ban: 2 semanas (2016/04/28)
+Admin que banea: Zatokz12
+IP Admin: 186.105.168.22
+--------------------------------------------------------

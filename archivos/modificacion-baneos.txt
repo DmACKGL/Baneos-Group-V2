@@ -1,0 +1,3509 @@
+Nombre baneado: Matias Carp
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 06:43:06 pm
+fecha de modificacion : 2014-11-16
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Varo Abarca
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:37:41 pm
+fecha de modificacion : 2014-11-17
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Gustavo Adolfo Ot�rola Beltr�n
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:41:54 pm
+fecha de modificacion : 2014-11-17
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Matias Carp
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 12:53:38 pm
+fecha de modificacion : 2014-11-17
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Matias Carp
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 12:54:56 pm
+fecha de modificacion : 2014-11-17
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Matias Carp
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 12:57:23 pm
+fecha de modificacion : 2014-11-17
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Matias Carp
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 01:01:58 pm
+fecha de modificacion : 2014-11-17
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Matias Carp
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 01:19:28 pm
+fecha de modificacion : 2014-11-17
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Javier Ignacio Sotelo
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 05:17:07 pm
+fecha de modificacion : 2014-11-22
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado:  Rub�n Alexis Pereira Barrera
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:12:55 am
+fecha de modificacion : 2014-11-23
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Samuel Almarcegui
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:13:25 am
+fecha de modificacion : 2014-11-23
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Joanmanuel Diaz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:13:55 am
+fecha de modificacion : 2014-11-23
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Francisco Javier Aguilar Neira
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:14:16 am
+fecha de modificacion : 2014-11-23
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Pedro Pablo Gomez Abarca
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:14:44 am
+fecha de modificacion : 2014-11-23
+Admin que modifica: peshotes
+Proxy Admin: 181.74.183.74
+IP Admin: 181.74.183.74
+--------------------------------------------------------
+Nombre baneado: Alvaro Gonzalez (no desbanear por weon pls)
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:54:05 am
+fecha de modificacion : 2014-11-27
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Alguien Que Se Llama Patricio
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:10:55 pm
+fecha de modificacion : 2014-11-27
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Caeza de la Cerda
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 01:11:50 pm
+fecha de modificacion : 2014-11-27
+Admin que modifica: peshotes
+Proxy Admin: 108.162.212.145
+IP Admin: 181.72.113.60, 108.162.212.145
+--------------------------------------------------------
+Nombre baneado: Mrmustache Bustamante
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:12:12 pm
+fecha de modificacion : 2014-11-27
+Admin que modifica: peshotes
+Proxy Admin: 108.162.212.145
+IP Admin: 181.72.113.60, 108.162.212.145
+--------------------------------------------------------
+Nombre baneado:  Luis Alvarez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 11:57:27 pm
+fecha de modificacion : 2014-11-27
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado:  Benja Lagos
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 11:59:39 pm
+fecha de modificacion : 2014-11-27
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jose Reyes
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:00:03 am
+fecha de modificacion : 2014-11-28
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Carloa Mariategui
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 12:01:02 am
+fecha de modificacion : 2014-11-28
+Admin que modifica: peshotes
+Proxy Admin: 108.162.212.145
+IP Admin: 181.72.113.60, 108.162.212.145
+--------------------------------------------------------
+Nombre baneado: Franco Aravena Ahumada
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:51:30 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Luis Zamorano
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:51:58 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Maicol Sebastian Vasquez Flores
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:52:32 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jordan Luis Reyes Ferreira
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:53:10 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Esteban Espinosa Pino
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:53:39 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Juan Pizarro B
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:54:05 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Matias Rojas Ramos
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:54:49 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Tom�s Betanzo
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:55:26 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: DBAN
+Nota: No encontrado en la lista (prueba)
+Hora modificacion: 02:37:03 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: UNK
+Nota: No encontrado en la lista (prueba)
+Hora modificacion: 02:39:39 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: UNK
+Nota: No encontrado en la lista (prueba)
+Hora modificacion: 02:41:06 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: UNK
+Nota: No encontrado en la lista (prueba)
+Hora modificacion: 02:46:01 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: UNK
+Nota: No encontrado en la lista (prueba)
+Hora modificacion: 02:47:37 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 02:49:42 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: DBAN
+Nota: No encontrado en la lista
+Hora modificacion: 02:50:28 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Carlos Andres
+Estado nuevo: UNK
+Nota: No encontrado en la lista (Prueba)
+Hora modificacion: 02:51:27 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Carlos Andres
+Estado nuevo: UNK
+Nota: No encontrado en la lista
+Hora modificacion: 02:52:19 am
+fecha de modificacion : 2014-12-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristi�n Kj
+Estado nuevo: DBAN
+Nota: Ban por error (es el brother del tio exebia 20GhZ)
+Hora modificacion: 09:15:19 pm
+fecha de modificacion : 2014-12-06
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Shockblade Maauri
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:39:45 am
+fecha de modificacion : 2014-12-17
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristian Diaz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:45:46 pm
+fecha de modificacion : 2014-12-18
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Pablo Alegria
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:46:12 pm
+fecha de modificacion : 2014-12-18
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Fabi�n Nicol�s
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:03:17 pm
+fecha de modificacion : 2014-12-25
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Mois�s Bugue�o
+Estado nuevo: DBAN
+Nota: Baneo eliminado porque facebook anda cargando mal, y por esta raz�n se creo un doble o triple post
+Hora modificacion: 11:59:41 pm
+fecha de modificacion : 2014-12-29
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Guillermo Lorca
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:03:20 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Franco Salgado
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:03:49 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Cristian Caceres
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:05:23 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Itzamma Balam Bej
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:06:15 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Felipe Caeza L�pez
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:07:35 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Miguel Raul Espinoza Dauvergne
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:08:03 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Jaime Eduardo Mendez Ya�ez
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:08:57 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Eduardo Soares
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:09:39 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Sergio Cardenas Gajardo
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:11:13 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Antonio Fuentes Carranza
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:11:42 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Matt Sylvia
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:13:24 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Mirko Cortes Mu�oz
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:14:49 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Claudio Benjamin Pezo Sanhueza
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:17:14 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Rub�n Alexis Pereira Barrera
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:18:02 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Estado nuevo: DBAN
+Nota: Perdonazo 31/12/2014
+Hora modificacion: 01:20:23 am
+fecha de modificacion : 2014-12-31
+Admin que modifica: xHebHaH
+Proxy Admin: 190.164.8.187
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Pablo Alex Cacahuate
+Estado nuevo: DBAN
+Nota: Prueba cambios en el sistema
+Hora modificacion: 03:55:45 am
+fecha de modificacion : 2015-01-01
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Un Tal Diego
+Estado nuevo: UNK
+Nota: ad
+Hora modificacion: 04:53:37 pm
+fecha de modificacion : 2015-01-19
+Admin que modifica: TaroCL
+Proxy Admin: 200.83.10.89
+IP Admin: 200.83.10.89
+--------------------------------------------------------
+Nombre baneado: Un Tal Diego
+Estado nuevo: UNK
+Nota: me equivo que :3
+Hora modificacion: 04:54:51 pm
+fecha de modificacion : 2015-01-19
+Admin que modifica: TaroCL
+Proxy Admin: 200.83.10.89
+IP Admin: 200.83.10.89
+--------------------------------------------------------
+Nombre baneado: Un Tal Diego
+Estado nuevo: UNK
+Nota: me equivoque :3
+Hora modificacion: 04:55:06 pm
+fecha de modificacion : 2015-01-19
+Admin que modifica: TaroCL
+Proxy Admin: 200.83.10.89
+IP Admin: 200.83.10.89
+--------------------------------------------------------
+Nombre baneado: Un Tal Diego
+Estado nuevo: DBAN
+Nota: Error de baneo
+Hora modificacion: 02:59:08 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Igor Alves Kxl
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:11:15 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Lucas Antonio Esp�ndola Valverde
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:12:13 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Dani Ortega
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:12:45 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Cristian Mardones Fernandez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:13:08 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado:  Dynastes Nsjnsj Jensen
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:13:34 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Andrew Chandia
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:13:58 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Alex AlienFx T�th
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:14:40 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Jake Harrison
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:15:18 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Xristina Papanikolaou
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:15:53 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Ho�ng Phong
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:16:39 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Alvaro Tomas Solis Harvey
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:17:20 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Benjam�n Araya
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:18:10 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Harlod Guerra Daza
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:18:46 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: peshotes
+Proxy Admin: 181.72.113.60
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: Rub�n Alexis Pereira Barrera
+Estado nuevo: DBAN
+Nota: Baneo injusto + user OP
+Hora modificacion: 10:48:56 pm
+fecha de modificacion : 2015-01-20
+Admin que modifica: danovancl
+Proxy Admin: 186.67.198.82
+IP Admin: 186.67.198.82
+--------------------------------------------------------
+Nombre baneado: Oyuncu Kamil
+Estado nuevo: DBAN
+Nota: error de ban
+Hora modificacion: 08:46:01 pm
+fecha de modificacion : 2015-01-30
+Admin que modifica: danovancl
+IP Admin: 186.67.198.82
+--------------------------------------------------------
+Nombre baneado: Oyuncu Kamil
+Estado nuevo: DBAN
+Nota: error de ban
+Hora modificacion: 08:46:42 pm
+fecha de modificacion : 2015-01-30
+Admin que modifica: danovancl
+IP Admin: 186.67.198.82
+--------------------------------------------------------
+Nombre baneado: Alex Navarro
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:12:15 am
+fecha de modificacion : 2015-02-01
+Admin que modifica: peshotes
+IP Admin: 181.72.113.60
+--------------------------------------------------------
+Nombre baneado: https://www.facebook.com/GerardoRojasR?fref=ufi
+Estado nuevo: DBAN
+Nota: Falta de informacion en el baneo
+Hora modificacion: 03:58:48 pm
+fecha de modificacion : 2015-02-07
+Admin que modifica: xHebHaH
+IP Admin: 190.164.8.187
+--------------------------------------------------------
+Nombre baneado: Lawéa Lucas
+Estado nuevo: DBAN
+Nota: arreglar link
+Hora modificacion: 08:21:31 pm
+fecha de modificacion : 2015-02-13
+Admin que modifica: ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Nonanni Soto
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:52:54 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Seba Jofre
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:53:22 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Jean Mishel
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:53:49 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Lucas Manuel Astudillo
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:55:01 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Sebastian Nicolas Pueyes Flores
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:55:23 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Zed Rompe Penes
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:55:49 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Fn poleras
+Estado nuevo: DBAN
+Nota: Perfil eliminado
+Hora modificacion: 09:56:24 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Marval YouGames
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:56:47 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Marcos Sebastian Omar Contreras Barrios
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:57:17 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Sil Cont
+Estado nuevo: DBAN
+Nota: Perfil eliminado
+Hora modificacion: 09:57:50 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Benjamin Venegas
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:58:44 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Nickolas Rivera
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:59:23 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Un Tal Diego
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:59:57 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Ǝsteban Escobar
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:00:29 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Daniel Crocket
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:00:53 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Fabian Moraga
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:01:18 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Mary Yordi Lopez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:02:06 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado:  Sheeloo Tmpr
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:02:36 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado:  Sheeloo Tmpr
+Estado nuevo: DBAN
+Nota: BANEO DUPLICADO
+Hora modificacion: 10:02:50 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado:  Sheeloo Tmpr
+Estado nuevo: DBAN
+Nota: BANEO DUPLICADO
+Hora modificacion: 10:03:02 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Oyuncu Kamil
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:03:41 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado:  Sheeloo Tmpr
+Estado nuevo: DBAN
+Nota: BANEO DUPLICADO
+Hora modificacion: 10:04:07 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado:  Sheeloo Tmpr
+Estado nuevo: DBAN
+Nota: BANEO DUPLICADO
+Hora modificacion: 10:04:22 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Luis Fernando
+Estado nuevo: DBAN
+Nota: Decision administrativa
+Hora modificacion: 10:04:48 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Gonza Vargas
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:05:11 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado:  Hector Farsel
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:05:41 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Yazt AudiTore
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:06:10 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Ignacio Antonio Huerta Lara
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:06:46 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Mkl Bouzidi
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:07:37 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Nicolas Villagra Fuentes
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:08:21 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Mashiro Kanda Kaimarasu
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:08:49 pm
+fecha de modificacion : 2015-02-22
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Pypel Fuentes
+Estado nuevo: DBAN
+Nota: Fin periodo baneo
+Hora modificacion: 10:52:30 pm
+fecha de modificacion : 2015-02-25
+Admin que modifica: gordonner
+IP Admin: 190.209.214.39
+--------------------------------------------------------
+Nombre baneado: Tomas Vidal 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:58:43 pm
+fecha de modificacion : 2015-02-25
+Admin que modifica: gordonner
+IP Admin: 190.209.214.39
+--------------------------------------------------------
+Nombre baneado: Jordy Giovanni
+Estado nuevo: DBAN
+Nota: Error de ban
+Hora modificacion: 12:14:49 pm
+fecha de modificacion : 2015-02-26
+Admin que modifica: Gato
+IP Admin: 186.106.151.30
+--------------------------------------------------------
+Nombre baneado: Jose Moises Poblete Gamboa
+Estado nuevo: DBAN
+Nota: Pruebas insuficientes.
+Hora modificacion: 01:36:53 pm
+fecha de modificacion : 2015-02-26
+Admin que modifica: Gato
+IP Admin: 186.106.151.30
+--------------------------------------------------------
+Nombre baneado: Jordy Giovanni
+Estado nuevo: DBAN
+Nota: razón insuficiente
+Hora modificacion: 01:46:54 pm
+fecha de modificacion : 2015-02-26
+Admin que modifica: Danovancl
+IP Admin: 186.67.198.82
+--------------------------------------------------------
+Nombre baneado: Exe Pulgar
+Estado nuevo: DBAN
+Nota: prueba insuficiente
+Hora modificacion: 01:48:24 pm
+fecha de modificacion : 2015-02-26
+Admin que modifica: Danovancl
+IP Admin: 186.67.198.82
+--------------------------------------------------------
+Nombre baneado: Juancho Juanin
+Estado nuevo: DBAN
+Nota: Razon insuficiente.
+Hora modificacion: 04:10:50 pm
+fecha de modificacion : 2015-02-26
+Admin que modifica: Gato
+IP Admin: 186.106.151.30
+--------------------------------------------------------
+Nombre baneado: Samit Castaño
+Estado nuevo: DBAN
+Nota: error de baneo
+Hora modificacion: 04:30:36 pm
+fecha de modificacion : 2015-02-26
+Admin que modifica: gordonner
+IP Admin: 190.209.214.39
+--------------------------------------------------------
+Nombre baneado: Agustin Salvador Gonzalez Diaz
+Estado nuevo: DBAN
+Nota: error baneo
+Hora modificacion: 05:07:57 pm
+fecha de modificacion : 2015-02-26
+Admin que modifica: danovancl
+IP Admin: 186.67.198.82
+--------------------------------------------------------
+Nombre baneado: Lawéa Lucas
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:12:49 am
+fecha de modificacion : 2015-02-27
+Admin que modifica: Dreamcatcher
+IP Admin: 190.209.99.205
+--------------------------------------------------------
+Nombre baneado: Benjamín Butteler Cornejo
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 03:39:00 pm
+fecha de modificacion : 2015-02-28
+Admin que modifica: gordonner
+IP Admin: 190.209.214.39
+--------------------------------------------------------
+Nombre baneado:  Shinonome Nico-kun
+Estado nuevo: DBAN
+Nota: falta de muestras
+Hora modificacion: 12:02:01 am
+fecha de modificacion : 2015-03-01
+Admin que modifica: gansta
+IP Admin: 201.214.2.122
+--------------------------------------------------------
+Nombre baneado: Seba Jesus
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:07:48 am
+fecha de modificacion : 2015-03-02
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Riuk Sempai
+Estado nuevo: DBAN
+Nota: Error de baneo
+Hora modificacion: 01:30:48 am
+fecha de modificacion : 2015-03-02
+Admin que modifica: Dreamcatcher
+IP Admin: 190.209.99.205
+--------------------------------------------------------
+Nombre baneado: Riuk Sempai
+Estado nuevo: DBAN
+Nota: Error de baneo
+Hora modificacion: 01:31:41 am
+fecha de modificacion : 2015-03-02
+Admin que modifica: Dreamcatcher
+IP Admin: 190.209.99.205
+--------------------------------------------------------
+Nombre baneado: Kelin Oneida Saravia
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:02:36 am
+fecha de modificacion : 2015-03-05
+Admin que modifica: Dreamcatcher
+IP Admin: 190.209.99.205
+--------------------------------------------------------
+Nombre baneado: Miguel Salcedo Illesca
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:05:25 am
+fecha de modificacion : 2015-03-06
+Admin que modifica: Dreamcatcher
+IP Admin: 190.209.99.205
+--------------------------------------------------------
+Nombre baneado: Pablo Pinto
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:08:32 am
+fecha de modificacion : 2015-03-06
+Admin que modifica: Dreamcatcher
+IP Admin: 190.209.99.205
+--------------------------------------------------------
+Nombre baneado: Eduardo Bravo Antonio Alonzo 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:23:26 am
+fecha de modificacion : 2015-03-07
+Admin que modifica: Dreamcatcher
+IP Admin: 190.209.99.205
+--------------------------------------------------------
+Nombre baneado: Bastián Escribano
+Estado nuevo: DBAN
+Nota: Tiempo Cumplido
+Hora modificacion: 12:35:19 am
+fecha de modificacion : 2015-03-08
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.43
+--------------------------------------------------------
+Nombre baneado: Joshua Alexander
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:46:52 am
+fecha de modificacion : 2015-03-08
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.43
+--------------------------------------------------------
+Nombre baneado: Esteban Marchant Vergara 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:47:41 am
+fecha de modificacion : 2015-03-08
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.43
+--------------------------------------------------------
+Nombre baneado: Joaco Alberto Castro
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:48:30 am
+fecha de modificacion : 2015-03-08
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.43
+--------------------------------------------------------
+Nombre baneado: Un Tal Matias
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:48:37 am
+fecha de modificacion : 2015-03-08
+Admin que modifica: Agorex
+IP Admin: 190.20.103.253
+--------------------------------------------------------
+Nombre baneado: Karma Kaoz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:49:19 am
+fecha de modificacion : 2015-03-08
+Admin que modifica: Agorex
+IP Admin: 190.20.103.253
+--------------------------------------------------------
+Nombre baneado: Frostmourne Menethil
+Estado nuevo: DBAN
+Nota: Fecha (casi) cumplida
+Hora modificacion: 01:50:07 am
+fecha de modificacion : 2015-03-08
+Admin que modifica: Agorex
+IP Admin: 190.20.103.253
+--------------------------------------------------------
+Nombre baneado: Jorge Padilla
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 09:00:51 pm
+fecha de modificacion : 2015-03-09
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.43
+--------------------------------------------------------
+Nombre baneado: Felipe Ignacio Moreno Vidal
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 07:57:23 pm
+fecha de modificacion : 2015-03-11
+Admin que modifica: Agorex
+IP Admin: 190.20.114.235
+--------------------------------------------------------
+Nombre baneado: Martin Alonso
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 07:58:54 pm
+fecha de modificacion : 2015-03-11
+Admin que modifica: Agorex
+IP Admin: 190.20.114.235
+--------------------------------------------------------
+Nombre baneado:  Diego Saavedra 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 07:59:19 pm
+fecha de modificacion : 2015-03-11
+Admin que modifica: Agorex
+IP Admin: 190.20.114.235
+--------------------------------------------------------
+Nombre baneado: Marcelo Alejandro Soto ORtega
+Estado nuevo: DBAN
+Nota: desbaneado por apelacion y perdonazo
+Hora modificacion: 09:04:47 pm
+fecha de modificacion : 2015-03-12
+Admin que modifica: wildchild
+IP Admin: 181.161.130.185
+--------------------------------------------------------
+Nombre baneado: Riuk Sempai
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 06:42:02 pm
+fecha de modificacion : 2015-03-15
+Admin que modifica: sassi_cl
+IP Admin: 186.104.87.210
+--------------------------------------------------------
+Nombre baneado: Adimax Navarro Diaz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:18:54 am
+fecha de modificacion : 2015-03-17
+Admin que modifica: Agorex
+IP Admin: 190.20.123.61
+--------------------------------------------------------
+Nombre baneado: Herman Becerra
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 01:46:52 pm
+fecha de modificacion : 2015-03-18
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.92
+--------------------------------------------------------
+Nombre baneado: Nicolas Alberto Diaz Nuñez
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 01:47:18 pm
+fecha de modificacion : 2015-03-18
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.92
+--------------------------------------------------------
+Nombre baneado: Cristian Therrivle Kreyzy Pa la Nena
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:52:22 pm
+fecha de modificacion : 2015-03-19
+Admin que modifica: Agorex
+IP Admin: 190.20.84.213
+--------------------------------------------------------
+Nombre baneado: Luis Alejandro Muñoz Saldivar
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:52:50 pm
+fecha de modificacion : 2015-03-19
+Admin que modifica: Agorex
+IP Admin: 190.20.84.213
+--------------------------------------------------------
+Nombre baneado: Fernando Segura Blanchet
+Estado nuevo: DBAN
+Nota: Error de Baneo
+Hora modificacion: 04:15:11 pm
+fecha de modificacion : 2015-03-23
+Admin que modifica: Agorex
+IP Admin: 190.20.104.145
+--------------------------------------------------------
+Nombre baneado: Rubén Alexis Pereira Barrera
+Estado nuevo: DBAN
+Nota: error de baneo duplicado 
+Hora modificacion: 03:04:13 am
+fecha de modificacion : 2015-03-26
+Admin que modifica: wildchild
+IP Admin: 186.79.184.142
+--------------------------------------------------------
+Nombre baneado: Cristóbal Iribarren Rojas
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:06:58 pm
+fecha de modificacion : 2015-03-26
+Admin que modifica: Agorex
+IP Admin: 190.20.84.82
+--------------------------------------------------------
+Nombre baneado: Fernando Segura Blanchet
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:07:30 pm
+fecha de modificacion : 2015-03-26
+Admin que modifica: Agorex
+IP Admin: 190.20.84.82
+--------------------------------------------------------
+Nombre baneado: Rubén Alexis Pereira Barrera
+Estado nuevo: DBAN
+Nota: Error de baneo (Comunicado por Danovan)
+Hora modificacion: 04:42:57 pm
+fecha de modificacion : 2015-03-27
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Cristobal Muñoz Gonzalez
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 07:48:44 pm
+fecha de modificacion : 2015-03-27
+Admin que modifica: Agorex
+IP Admin: 190.20.67.231
+--------------------------------------------------------
+Nombre baneado: Diego Alonso 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:59:30 am
+fecha de modificacion : 2015-03-28
+Admin que modifica: sassi_cl
+IP Admin: 190.160.147.92
+--------------------------------------------------------
+Nombre baneado: TheGamer Nefasto
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 02:20:45 pm
+fecha de modificacion : 2015-03-31
+Admin que modifica: Agorex
+IP Admin: 200.91.9.177
+--------------------------------------------------------
+Nombre baneado: Fabian Salas Aros
+Estado nuevo: DBAN
+Nota: Razón de baneo incorrecta
+Hora modificacion: 12:25:05 am
+fecha de modificacion : 2015-04-04
+Admin que modifica: peshotes
+IP Admin: 181.74.80.76
+--------------------------------------------------------
+Nombre baneado: Diego Covarrubias
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:36:52 am
+fecha de modificacion : 2015-04-07
+Admin que modifica: Agorex
+IP Admin: 190.20.91.168
+--------------------------------------------------------
+Nombre baneado:  Ignacio Carvajal
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:37:54 am
+fecha de modificacion : 2015-04-07
+Admin que modifica: Agorex
+IP Admin: 190.20.91.168
+--------------------------------------------------------
+Nombre baneado:  Catarina Moreno Torres
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:13:53 pm
+fecha de modificacion : 2015-04-08
+Admin que modifica: Agorex
+IP Admin: 190.20.88.88
+--------------------------------------------------------
+Nombre baneado: Herman Becerra
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:35:26 pm
+fecha de modificacion : 2015-04-08
+Admin que modifica: Agorex
+IP Admin: 190.20.88.88
+--------------------------------------------------------
+Nombre baneado: Fravier Dumith
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 05:56:58 pm
+fecha de modificacion : 2015-04-13
+Admin que modifica: Agorex
+IP Admin: 190.20.119.120
+--------------------------------------------------------
+Nombre baneado: Franco Schramm
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 05:57:28 pm
+fecha de modificacion : 2015-04-13
+Admin que modifica: Agorex
+IP Admin: 190.20.119.120
+--------------------------------------------------------
+Nombre baneado: Yerko Mendez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 05:57:59 pm
+fecha de modificacion : 2015-04-13
+Admin que modifica: Agorex
+IP Admin: 190.20.119.120
+--------------------------------------------------------
+Nombre baneado: Gabriel Fuentes
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 09:04:55 pm
+fecha de modificacion : 2015-04-16
+Admin que modifica: Agorex
+IP Admin: 190.20.123.91
+--------------------------------------------------------
+Nombre baneado: ElCareh De Ñeh
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 09:05:43 pm
+fecha de modificacion : 2015-04-16
+Admin que modifica: Agorex
+IP Admin: 190.20.123.91
+--------------------------------------------------------
+Nombre baneado: Iván Diamond
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:39:19 pm
+fecha de modificacion : 2015-04-22
+Admin que modifica: Agorex
+IP Admin: 190.20.64.13
+--------------------------------------------------------
+Nombre baneado: Alfredo Bravo
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:40:00 pm
+fecha de modificacion : 2015-04-22
+Admin que modifica: Agorex
+IP Admin: 190.20.64.13
+--------------------------------------------------------
+Nombre baneado: Franco Santander Gomez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:40:14 pm
+fecha de modificacion : 2015-04-22
+Admin que modifica: Agorex
+IP Admin: 190.20.64.13
+--------------------------------------------------------
+Nombre baneado: Bastian Arevalo Ruiz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:40:24 pm
+fecha de modificacion : 2015-04-22
+Admin que modifica: Agorex
+IP Admin: 190.20.64.13
+--------------------------------------------------------
+Nombre baneado: Lester Jara
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:40:47 pm
+fecha de modificacion : 2015-04-22
+Admin que modifica: Agorex
+IP Admin: 190.20.64.13
+--------------------------------------------------------
+Nombre baneado: Alejo Lopez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:41:13 pm
+fecha de modificacion : 2015-04-22
+Admin que modifica: Agorex
+IP Admin: 190.20.64.13
+--------------------------------------------------------
+Nombre baneado: Mauricio Alejandro Cornejo Salinas
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:41:28 pm
+fecha de modificacion : 2015-04-22
+Admin que modifica: Agorex
+IP Admin: 190.20.64.13
+--------------------------------------------------------
+Nombre baneado: Ana Czemernicki
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 03:51:11 pm
+fecha de modificacion : 2015-04-28
+Admin que modifica: Agorex
+IP Admin: 190.20.79.239
+--------------------------------------------------------
+Nombre baneado:  Matias Marcelo Cofre Sanchez
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 03:51:47 pm
+fecha de modificacion : 2015-04-28
+Admin que modifica: Agorex
+IP Admin: 190.20.79.239
+--------------------------------------------------------
+Nombre baneado: Victor Torruella
+Estado nuevo: DBAN
+Nota: Desban por falla de etiqueta 
+Hora modificacion: 09:13:16 pm
+fecha de modificacion : 2015-04-29
+Admin que modifica: wildchild
+IP Admin: 186.79.183.145
+--------------------------------------------------------
+Nombre baneado: Simon Antonio Vera Jorquera
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:33:26 pm
+fecha de modificacion : 2015-05-07
+Admin que modifica: Agorex
+IP Admin: 190.20.93.240
+--------------------------------------------------------
+Nombre baneado: Camilo Bernales
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:33:43 pm
+fecha de modificacion : 2015-05-07
+Admin que modifica: Agorex
+IP Admin: 190.20.93.240
+--------------------------------------------------------
+Nombre baneado: Fabian Salas Aros
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:33:53 pm
+fecha de modificacion : 2015-05-07
+Admin que modifica: Agorex
+IP Admin: 190.20.93.240
+--------------------------------------------------------
+Nombre baneado:  Kevin Scott Kennedy
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:34:06 pm
+fecha de modificacion : 2015-05-07
+Admin que modifica: Agorex
+IP Admin: 190.20.93.240
+--------------------------------------------------------
+Nombre baneado:  Mxater Sopapi
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:34:21 pm
+fecha de modificacion : 2015-05-07
+Admin que modifica: Agorex
+IP Admin: 190.20.93.240
+--------------------------------------------------------
+Nombre baneado: Rodrigo Legarreta Parera
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 06:34:36 pm
+fecha de modificacion : 2015-05-07
+Admin que modifica: Agorex
+IP Admin: 190.20.93.240
+--------------------------------------------------------
+Nombre baneado: Joaquin Molina
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:50:38 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Ignacio Bravo
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:51:28 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Cami S. Rodríguez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:51:54 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Jorge Santander Fernández
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:52:06 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Fabio Espinosa Rojas
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:52:23 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Jack Van Smith
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:52:39 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Julian Gonzalez Carmona
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:53:46 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Pablo Oyarce
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:54:00 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Chello Hernandez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:54:13 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Naxo Milke Hdez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:54:30 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Camilo Huaiquipan
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:54:51 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: CamiKan Acuña
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:55:03 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Bastian Asi Cual Tal
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:55:15 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Pablo Sebastian Gonzalez Godoy
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:55:29 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Italo Benjamin Riquelme Mora
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:55:56 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Alexander Saldarriaga
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:56:13 pm
+fecha de modificacion : 2015-06-06
+Admin que modifica: Deakalgo
+IP Admin: 200.83.117.158
+--------------------------------------------------------
+Nombre baneado: Francisco Andres Arevalo Perez
+Estado nuevo: UNK
+Nota: Ban doble
+Hora modificacion: 09:32:24 pm
+fecha de modificacion : 2015-06-27
+Admin que modifica: Agorex
+IP Admin: 190.20.108.215
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:14:53 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:15:21 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:16:25 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:17:31 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:20:27 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:22:40 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:24:38 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:25:33 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:26:47 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:27:30 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:28:01 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:28:31 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:29:06 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:29:37 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:30:31 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: 
+Estado nuevo: 
+Nota: 
+Hora modificacion: 08:31:00 pm
+fecha de modificacion : 2015-07-03
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: test
+Estado nuevo: DBAN
+Nota: porque si
+Hora modificacion: 11:32:03 pm
+fecha de modificacion : 2015-07-09
+Admin que modifica: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre baneado: Frdasd asdasd
+Estado nuevo: DBAN
+Nota: TEST
+
+Hora modificacion: 03:09:27 pm
+fecha de modificacion : 2015-07-10
+Admin que modifica: DJMastermack
+IP Admin: 190.46.106.84
+--------------------------------------------------------
+Nombre baneado: Francisco Andres Arevalo Perez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 11:58:19 pm
+fecha de modificacion : 2015-07-14
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Francisco Andres Arevalo Perez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 11:58:56 pm
+fecha de modificacion : 2015-07-14
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Felipe Jara 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:02:18 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Felipe Jara 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:03:47 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Maria Jose Alday
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:04:55 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Juan Salgado Castro
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:06:16 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado:  Victor Ponce
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:06:37 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Seba Andres Melendez Salazar
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:06:56 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Fabian Ignacio Ruz Rojas
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:07:17 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: gnacio Espinoza
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:07:47 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Jose Moises Poblete Gamboa
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:08:29 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Claudio Benjamin Pezo Sanhueza
+Estado nuevo: DBAN
+Nota: Desbaneo realizado anteriormente por perdonazo
+Hora modificacion: 12:13:11 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Jung Ji Ae Kim
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 12:15:06 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Zatokz12
+IP Admin: 190.161.38.146
+--------------------------------------------------------
+Nombre baneado: J.b. Bonas Olea Valenzuela
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:15:27 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Thesilence
+IP Admin: 181.161.154.176
+--------------------------------------------------------
+Nombre baneado: Hernan Paredes
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:25:39 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Zatokz12
+IP Admin: 190.161.38.146
+--------------------------------------------------------
+Nombre baneado: Jose Luis Barria
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:27:24 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Zatokz12
+IP Admin: 190.161.38.146
+--------------------------------------------------------
+Nombre baneado: Agustin Salvador Gonzalez Diaz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:57:38 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Coti
+IP Admin: 201.239.195.247
+--------------------------------------------------------
+Nombre baneado: Fear Jn
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:58:02 am
+fecha de modificacion : 2015-07-15
+Admin que modifica: Coti
+IP Admin: 201.239.195.247
+--------------------------------------------------------
+Nombre baneado: Ignacio Navarrete Araya 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 11:40:46 pm
+fecha de modificacion : 2015-07-17
+Admin que modifica: Thesilence
+IP Admin: 186.79.188.236
+--------------------------------------------------------
+Nombre baneado: Martha Cosa Verde
+Estado nuevo: DBAN
+Nota: Fecha cumplida.
+Hora modificacion: 12:32:34 am
+fecha de modificacion : 2015-07-26
+Admin que modifica: Coti
+Proxy Admin: 201.239.195.247
+IP Admin: 201.239.195.247
+--------------------------------------------------------
+Nombre baneado: Bastian Moreno Tudela
+Estado nuevo: DBAN
+Nota: Advertencia cumplida
+Hora modificacion: 07:19:15 pm
+fecha de modificacion : 2015-07-26
+Admin que modifica: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Max GuzmÃ¡n
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 08:09:39 pm
+fecha de modificacion : 2015-07-26
+Admin que modifica: Thesilence
+Proxy Admin: 191.114.47.32
+IP Admin: 191.114.47.32
+--------------------------------------------------------
+Nombre baneado: Andy Olivares
+Estado nuevo: DBAN
+Nota: Fecha cumplida.
+Hora modificacion: 09:05:02 pm
+fecha de modificacion : 2015-07-27
+Admin que modifica: Coti
+Proxy Admin: 201.239.195.247
+IP Admin: 201.239.195.247
+--------------------------------------------------------
+Nombre baneado: test
+Estado nuevo: DBAN
+Nota: TEST
+Hora modificacion: 05:20:00 pm
+fecha de modificacion : 2015-08-02
+Admin que modifica: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: test
+Estado nuevo: DBAN
+Nota: test
+Hora modificacion: 05:24:40 pm
+fecha de modificacion : 2015-08-02
+Admin que modifica: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Leon Hart
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 05:40:44 pm
+fecha de modificacion : 2015-08-02
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.186.30
+IP Admin: 186.79.186.30
+--------------------------------------------------------
+Nombre baneado: Fabian Teran
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 05:41:27 pm
+fecha de modificacion : 2015-08-02
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.186.30
+IP Admin: 186.79.186.30
+--------------------------------------------------------
+Nombre baneado: Mac Jjksjsksb
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 05:42:01 pm
+fecha de modificacion : 2015-08-02
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.186.30
+IP Admin: 186.79.186.30
+--------------------------------------------------------
+Nombre baneado: Andres Asi Tal Cual
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 05:43:20 pm
+fecha de modificacion : 2015-08-02
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.186.30
+IP Admin: 186.79.186.30
+--------------------------------------------------------
+Nombre baneado:  Seba Andres Melendez Salazar 
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 08:27:11 pm
+fecha de modificacion : 2015-08-02
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.186.30
+IP Admin: 186.79.186.30
+--------------------------------------------------------
+Nombre baneado: Yulian Frusciante Sullivan
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 05:03:37 pm
+fecha de modificacion : 2015-08-03
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.186.30
+IP Admin: 186.79.186.30
+--------------------------------------------------------
+Nombre baneado: Gonzalo Montes De Oca
+Estado nuevo: DBAN
+Nota: Baneo sin razon
+Hora modificacion: 08:04:34 pm
+fecha de modificacion : 2015-08-11
+Admin que modifica: xHebHaH
+Proxy Admin: 104.236.86.25
+IP Admin: 104.236.86.25
+--------------------------------------------------------
+Nombre baneado: Vicente Javier Aguilera Busctamante
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 02:07:10 am
+fecha de modificacion : 2015-08-18
+Admin que modifica: Zatokz12
+Proxy Admin: 186.105.214.168
+IP Admin: 186.105.214.168
+--------------------------------------------------------
+Nombre baneado: Cloudkicka Sevyn
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 02:08:33 am
+fecha de modificacion : 2015-08-18
+Admin que modifica: Zatokz12
+Proxy Admin: 186.105.214.168
+IP Admin: 186.105.214.168
+--------------------------------------------------------
+Nombre baneado: Jade GarcÃ­a
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 02:09:43 am
+fecha de modificacion : 2015-08-18
+Admin que modifica: Zatokz12
+Proxy Admin: 186.105.214.168
+IP Admin: 186.105.214.168
+--------------------------------------------------------
+Nombre baneado: Mauricio GonzÃ¡lez
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 09:22:41 pm
+fecha de modificacion : 2015-08-22
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.180.237
+IP Admin: 186.79.180.237
+--------------------------------------------------------
+Nombre baneado:  Bryan Exequiel
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 09:23:15 pm
+fecha de modificacion : 2015-08-22
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.180.237
+IP Admin: 186.79.180.237
+--------------------------------------------------------
+Nombre baneado: Julian Nicolas Faundez Aguila
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 09:23:53 pm
+fecha de modificacion : 2015-08-22
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.180.237
+IP Admin: 186.79.180.237
+--------------------------------------------------------
+Nombre baneado: Ruset Green
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 09:24:39 pm
+fecha de modificacion : 2015-08-22
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.180.237
+IP Admin: 186.79.180.237
+--------------------------------------------------------
+Nombre baneado: Seba Jofre
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 09:24:54 pm
+fecha de modificacion : 2015-08-22
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.180.237
+IP Admin: 186.79.180.237
+--------------------------------------------------------
+Nombre baneado: Ignacio AndrÃ©s Letelier Taibo
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 09:25:14 pm
+fecha de modificacion : 2015-08-22
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.180.237
+IP Admin: 186.79.180.237
+--------------------------------------------------------
+Nombre baneado: Seba Andres Melendez Salazar
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 10:22:52 pm
+fecha de modificacion : 2015-08-27
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.129.99
+IP Admin: 181.161.129.99
+--------------------------------------------------------
+Nombre baneado: Sebastian Tello Contreras
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 10:23:10 pm
+fecha de modificacion : 2015-08-27
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.129.99
+IP Admin: 181.161.129.99
+--------------------------------------------------------
+Nombre baneado: Ives Algo
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 10:23:23 pm
+fecha de modificacion : 2015-08-27
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.129.99
+IP Admin: 181.161.129.99
+--------------------------------------------------------
+Nombre baneado: Paul Padrostis
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 10:23:39 pm
+fecha de modificacion : 2015-08-27
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.129.99
+IP Admin: 181.161.129.99
+--------------------------------------------------------
+Nombre baneado: El Weon De las Balticas 
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 10:56:08 pm
+fecha de modificacion : 2015-09-03
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.150.139
+IP Admin: 186.79.150.139
+--------------------------------------------------------
+Nombre baneado: Danko Espinoza
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 10:56:30 pm
+fecha de modificacion : 2015-09-03
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.150.139
+IP Admin: 186.79.150.139
+--------------------------------------------------------
+Nombre baneado: CristÃ³bal Ignacio Moreno
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 10:56:52 pm
+fecha de modificacion : 2015-09-03
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.150.139
+IP Admin: 186.79.150.139
+--------------------------------------------------------
+Nombre baneado: Heber Labbe
+Estado nuevo: UNK
+Nota: desban por insulto en la pagina no en grupo 
+Hora modificacion: 11:06:04 pm
+fecha de modificacion : 2015-09-09
+Admin que modifica: wildchild
+Proxy Admin: 186.79.132.79
+IP Admin: 186.79.132.79
+--------------------------------------------------------
+Nombre baneado: mara
+Estado nuevo: DBAN
+Nota: test
+Hora modificacion: 05:41:51 pm
+fecha de modificacion : 2015-09-23
+Admin que modifica: DJMastermack
+Proxy Admin: 201.241.110.144
+IP Admin: 201.241.110.144
+--------------------------------------------------------
+Nombre baneado: laig
+Estado nuevo: UNK
+Nota: test
+Hora modificacion: 05:44:11 pm
+fecha de modificacion : 2015-09-23
+Admin que modifica: DJMastermack
+Proxy Admin: 201.241.110.144
+IP Admin: 201.241.110.144
+--------------------------------------------------------
+Nombre baneado: laig
+Estado nuevo: UNK
+Nota: test
+Hora modificacion: 01:16:36 am
+fecha de modificacion : 2015-09-24
+Admin que modifica: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: laig
+Estado nuevo: UNK
+Nota: asdasdasdas
+Hora modificacion: 01:18:31 am
+fecha de modificacion : 2015-09-24
+Admin que modifica: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: laig
+Estado nuevo: DBAN
+Nota: test
+Hora modificacion: 01:18:40 am
+fecha de modificacion : 2015-09-24
+Admin que modifica: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Tal Iman
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+
+Hora modificacion: 09:10:20 pm
+fecha de modificacion : 2015-10-05
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.131.246
+IP Admin: 181.161.131.246
+--------------------------------------------------------
+Nombre baneado: Karenciwis Fernandez Silva
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:10:42 pm
+fecha de modificacion : 2015-10-05
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.131.246
+IP Admin: 181.161.131.246
+--------------------------------------------------------
+Nombre baneado:  Benja Romero Ramos
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:10:53 pm
+fecha de modificacion : 2015-10-05
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.131.246
+IP Admin: 181.161.131.246
+--------------------------------------------------------
+Nombre baneado: Ronald Andres Osorio
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:11:06 pm
+fecha de modificacion : 2015-10-05
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.131.246
+IP Admin: 181.161.131.246
+--------------------------------------------------------
+Nombre baneado: Ariel Aracena
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:11:19 pm
+fecha de modificacion : 2015-10-05
+Admin que modifica: Thesilence
+Proxy Admin: 181.161.131.246
+IP Admin: 181.161.131.246
+--------------------------------------------------------
+Nombre baneado: Andres Vargas Shun Aiko
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:02:21 pm
+fecha de modificacion : 2015-10-06
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.179.169
+IP Admin: 186.79.179.169
+--------------------------------------------------------
+Nombre baneado: victor ponce
+Estado nuevo: DBAN
+Nota: cumplio fecha (09/10)
+Hora modificacion: 10:25:35 am
+fecha de modificacion : 2015-10-10
+Admin que modifica: gansta
+Proxy Admin: 190.160.54.127
+IP Admin: 190.160.54.127
+--------------------------------------------------------
+Nombre baneado: Fernando GuzmÃ¡n LabbÃ©
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 10:32:40 am
+fecha de modificacion : 2015-10-10
+Admin que modifica: gansta
+Proxy Admin: 190.160.54.127
+IP Admin: 190.160.54.127
+--------------------------------------------------------
+Nombre baneado: Matias Isaac Gutierrez Jimenez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 11:07:06 pm
+fecha de modificacion : 2015-10-10
+Admin que modifica: Coti
+Proxy Admin: 201.239.195.247
+IP Admin: 201.239.195.247
+--------------------------------------------------------
+Nombre baneado: Mario FernÃ¡ndez Maraver
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 11:07:49 pm
+fecha de modificacion : 2015-10-10
+Admin que modifica: Coti
+Proxy Admin: 201.239.195.247
+IP Admin: 201.239.195.247
+--------------------------------------------------------
+Nombre baneado: Bastian Caceres MuÃ±oz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:16:31 am
+fecha de modificacion : 2015-10-12
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.189.82
+IP Admin: 186.79.189.82
+--------------------------------------------------------
+Nombre baneado: sebastian salgado
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:17:00 am
+fecha de modificacion : 2015-10-12
+Admin que modifica: Thesilence
+Proxy Admin: 186.79.189.82
+IP Admin: 186.79.189.82
+--------------------------------------------------------
+Nombre baneado:  Carlos Ãlvarez
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 01:38:01 am
+fecha de modificacion : 2015-10-13
+Admin que modifica: canuqui
+Proxy Admin: 186.34.97.32
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Christian CÃ¡rdenas
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 01:39:19 am
+fecha de modificacion : 2015-10-13
+Admin que modifica: canuqui
+Proxy Admin: 186.34.97.32
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Lucianito Chubaca
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 01:10:29 am
+fecha de modificacion : 2015-10-15
+Admin que modifica: Zatokz12
+IP Admin: 200.112.42.125
+--------------------------------------------------------
+Nombre baneado: test
+Estado nuevo: DBAN
+Nota: test completo
+Hora modificacion: 01:41:29 pm
+fecha de modificacion : 2015-10-15
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: test2
+Estado nuevo: DBAN
+Nota: test completo
+Hora modificacion: 01:41:45 pm
+fecha de modificacion : 2015-10-15
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Thomas Alejandro Javir Valenzuela Contreras
+Estado nuevo: DBAN
+Nota: FECHA CUMPLIDA
+Hora modificacion: 03:45:38 am
+fecha de modificacion : 2015-10-16
+Admin que modifica: Zatokz12
+IP Admin: 186.105.174.183
+--------------------------------------------------------
+Nombre baneado: Thomas Alejandro Javir Valenzuela Contreras
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:47:24 am
+fecha de modificacion : 2015-10-16
+Admin que modifica: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Sergio Campos Campos
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:48:21 am
+fecha de modificacion : 2015-10-16
+Admin que modifica: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Mario Gajardo
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:48:41 am
+fecha de modificacion : 2015-10-16
+Admin que modifica: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Victor Daniel Perez
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:49:12 am
+fecha de modificacion : 2015-10-16
+Admin que modifica: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: NicolÃ¡s Scheidemann
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:49:27 am
+fecha de modificacion : 2015-10-16
+Admin que modifica: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: Alejandro Yepes
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:49:52 am
+fecha de modificacion : 2015-10-16
+Admin que modifica: canuqui
+IP Admin: 186.34.97.32
+--------------------------------------------------------
+Nombre baneado: BastiÃ¡n SepÃºlveda
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:52:08 am
+fecha de modificacion : 2015-10-18
+Admin que modifica: Thesilence
+IP Admin: 181.161.134.186
+--------------------------------------------------------
+Nombre baneado: Jorge Alberto Guerrero
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:52:43 am
+fecha de modificacion : 2015-10-18
+Admin que modifica: Thesilence
+IP Admin: 181.161.134.186
+--------------------------------------------------------
+Nombre baneado:  Robinson Wuili Huilipang
+Estado nuevo: DBAN
+Nota: Perdonaso
+Hora modificacion: 02:24:11 pm
+fecha de modificacion : 2015-10-20
+Admin que modifica: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Hugo Vera MuÃ±oz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:35:23 pm
+fecha de modificacion : 2015-10-20
+Admin que modifica: Thesilence
+IP Admin: 186.79.167.114
+--------------------------------------------------------
+Nombre baneado: Vicente Celis Molina
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:35:43 pm
+fecha de modificacion : 2015-10-20
+Admin que modifica: Thesilence
+IP Admin: 186.79.167.114
+--------------------------------------------------------
+Nombre baneado: Seba Olivares Banda
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 10:36:09 pm
+fecha de modificacion : 2015-10-20
+Admin que modifica: Thesilence
+IP Admin: 186.79.167.114
+--------------------------------------------------------
+Nombre baneado: Victor Alejandro Pinochet Silva
+Estado nuevo: DBAN
+Nota: error en la razon del ban
+Hora modificacion: 12:16:12 am
+fecha de modificacion : 2015-10-27
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Diego Romero
+Estado nuevo: BAN
+Nota: Fecha cumplida
+Hora modificacion: 12:07:17 am
+fecha de modificacion : 2015-11-01
+Admin que modifica: Thesilence
+IP Admin: 186.79.148.106
+--------------------------------------------------------
+Nombre baneado: Diego Romero
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:07:36 am
+fecha de modificacion : 2015-11-01
+Admin que modifica: Thesilence
+IP Admin: 186.79.148.106
+--------------------------------------------------------
+Nombre baneado: Karlos Rosales YT
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:07:53 am
+fecha de modificacion : 2015-11-01
+Admin que modifica: Thesilence
+IP Admin: 186.79.148.106
+--------------------------------------------------------
+Nombre baneado: Sebastian Vidal 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:08:07 am
+fecha de modificacion : 2015-11-01
+Admin que modifica: Thesilence
+IP Admin: 186.79.148.106
+--------------------------------------------------------
+Nombre baneado: jorge barrett
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:08:27 am
+fecha de modificacion : 2015-11-01
+Admin que modifica: Thesilence
+IP Admin: 186.79.148.106
+--------------------------------------------------------
+Nombre baneado: sebastian ossandon
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 12:08:44 am
+fecha de modificacion : 2015-11-01
+Admin que modifica: Thesilence
+IP Admin: 186.79.148.106
+--------------------------------------------------------
+Nombre baneado: Julio Ignacio Olave CortÃ©s
+Estado nuevo: DBAN
+Nota: Plazo cumplido
+Hora modificacion: 10:45:03 pm
+fecha de modificacion : 2015-11-04
+Admin que modifica: xHebHaH
+IP Admin: 190.46.81.237
+--------------------------------------------------------
+Nombre baneado: Jexu De Miguel Ortega
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:15:11 am
+fecha de modificacion : 2015-11-10
+Admin que modifica: Zatokz12
+IP Admin: 186.105.176.215
+--------------------------------------------------------
+Nombre baneado: Jorge Barrett
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:17:57 am
+fecha de modificacion : 2015-11-10
+Admin que modifica: Zatokz12
+IP Admin: 186.105.176.215
+--------------------------------------------------------
+Nombre baneado: Seba Rodriguez
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 12:19:54 am
+fecha de modificacion : 2015-11-10
+Admin que modifica: Zatokz12
+IP Admin: 186.105.176.215
+--------------------------------------------------------
+Nombre baneado:  Alvaro Guzman Quezada
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 06:47:50 am
+fecha de modificacion : 2015-11-15
+Admin que modifica: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: Masive Abism
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 06:52:33 am
+fecha de modificacion : 2015-11-15
+Admin que modifica: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: tuestron oca
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 06:57:17 am
+fecha de modificacion : 2015-11-15
+Admin que modifica: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: Hector Salazar
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 06:58:38 am
+fecha de modificacion : 2015-11-15
+Admin que modifica: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: Dilan Sierra
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 06:59:47 am
+fecha de modificacion : 2015-11-15
+Admin que modifica: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: Javier PeÃ±a
+Estado nuevo: DBAN
+Nota: fecha cumplida
+Hora modificacion: 07:00:45 am
+fecha de modificacion : 2015-11-15
+Admin que modifica: Zatokz12
+IP Admin: 186.105.221.119
+--------------------------------------------------------
+Nombre baneado: Edu Molina Alvarez 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 03:52:22 am
+fecha de modificacion : 2015-12-28
+Admin que modifica: Zatokz12
+IP Admin: 186.105.225.244
+--------------------------------------------------------
+Nombre baneado: Vicente Barrales 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:54:15 am
+fecha de modificacion : 2015-12-28
+Admin que modifica: Zatokz12
+IP Admin: 186.105.225.244
+--------------------------------------------------------
+Nombre baneado: Freddy Neculpan Arriagada
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:57:38 am
+fecha de modificacion : 2015-12-28
+Admin que modifica: Zatokz12
+IP Admin: 186.105.225.244
+--------------------------------------------------------
+Nombre baneado: Agustin Mora
+Estado nuevo: DBAN
+Nota: Error al Banear usuario no aplica a baneo
+Hora modificacion: 01:59:28 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Fede NicolÃ¡s Acosta
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:11:51 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Fercerr Di
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:18:21 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Gata Norris
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:20:36 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Lucas Alejandro Geis Catanzaro
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:22:34 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Matias Miranda
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:23:28 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Mariana Bella 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:25:25 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Roberto Solano
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:26:16 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Jotanan Hernan Suleiman
+Estado nuevo: UNK
+Nota: No Se Encuentra Facebook
+Hora modificacion: 02:29:52 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Yaphets Hilario Asto
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:31:12 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Mauricio Molina
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:32:37 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Cristian Vargas 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:33:49 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: David Alejandro
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:38:15 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Felipe de la Vega
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:39:45 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Boris Angel Araya 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:41:04 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Francisco Lagos Romero
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:42:46 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado: Alejandro Shichimiyalove Namikaze 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:44:54 am
+fecha de modificacion : 2015-12-30
+Admin que modifica: Zatokz12
+IP Admin: 186.107.39.187
+--------------------------------------------------------
+Nombre baneado:  Fernando PeÃ±a Fuenzalida
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:43:41 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Alejandro Yepes
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:44:43 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Juan Mondaca
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:45:12 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado:  Marcelo Jonathan
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:45:34 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Alex Funker Quesada
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:46:21 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Nico AndrÃ©s Jaque
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:47:02 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Javier Andres Aravena
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:47:26 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Victor Alejandro Pinochet Silva
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:51:00 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: fabian deskriteriado
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:51:23 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Peurd Pedur Peurd
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:51:50 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: VÃ­ctor Manuel Arriola
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 03:52:23 pm
+fecha de modificacion : 2015-12-30
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Nicolas Andres
+Estado nuevo: DBAN
+Nota: desban por motivo de juego ignorar la fotografia 
+
+soy el wildchild y ke paza 
+Hora modificacion: 11:42:21 pm
+fecha de modificacion : 2016-01-04
+Admin que modifica: wildchild
+IP Admin: 186.79.136.201
+--------------------------------------------------------
+Nombre baneado: ElÃ­as Milla Araya
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 11:40:12 pm
+fecha de modificacion : 2016-01-08
+Admin que modifica: Thesilence
+IP Admin: 181.161.175.7
+--------------------------------------------------------
+Nombre baneado: Ivan Enrique Vega Saldivar
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 11:40:45 pm
+fecha de modificacion : 2016-01-08
+Admin que modifica: Thesilence
+IP Admin: 181.161.175.7
+--------------------------------------------------------
+Nombre baneado: SebastiÃ¡n Valdivieso
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 11:41:18 pm
+fecha de modificacion : 2016-01-08
+Admin que modifica: Thesilence
+IP Admin: 181.161.175.7
+--------------------------------------------------------
+Nombre baneado: Nelson Astudillo Oviedo
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 11:41:42 pm
+fecha de modificacion : 2016-01-08
+Admin que modifica: Thesilence
+IP Admin: 181.161.175.7
+--------------------------------------------------------
+Nombre baneado: Ignacio EchiburÃº Uribe
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 11:42:08 pm
+fecha de modificacion : 2016-01-08
+Admin que modifica: Thesilence
+IP Admin: 181.161.175.7
+--------------------------------------------------------
+Nombre baneado:  Nicolas Hernandez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:28:34 pm
+fecha de modificacion : 2016-01-13
+Admin que modifica: Thesilence
+IP Admin: 186.79.185.12
+--------------------------------------------------------
+Nombre baneado: danilo mella
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 09:29:14 pm
+fecha de modificacion : 2016-01-13
+Admin que modifica: Thesilence
+IP Admin: 186.79.185.12
+--------------------------------------------------------
+Nombre baneado: Nicolas Gallardo Z
+Estado nuevo: DBAN
+Nota: Aclaro que fue virus de FB
+Hora modificacion: 11:06:24 pm
+fecha de modificacion : 2016-01-13
+Admin que modifica: xHebHaH
+IP Admin: 186.156.19.230
+--------------------------------------------------------
+Nombre baneado: Jose Erthmanoh Khe Uea
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:28:45 pm
+fecha de modificacion : 2016-01-23
+Admin que modifica: xHebHaH
+IP Admin: 186.156.19.230
+--------------------------------------------------------
+Nombre baneado: Kevin Gabriel
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:30:25 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Rob Vasquez Ortiz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:31:05 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Javier Alonso Merino Gonzalez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:31:49 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Cesar Mella Diaz
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:32:26 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Arthur Castro
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:33:19 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: angel bastian
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:34:17 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: cristian mardones
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:34:46 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Felipe Araya
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:35:06 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Joshe Ignacio
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:35:27 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: eme freeman
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:35:47 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Ricardo Emanuel Pinchon Manriquez
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:36:02 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Mati As
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:36:25 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Brandon Giovanni 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:36:55 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: NicolÃ¡s BastiÃ¡n
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 01:37:36 pm
+fecha de modificacion : 2016-01-24
+Admin que modifica: Thesilence
+IP Admin: 181.161.162.137
+--------------------------------------------------------
+Nombre baneado: Mauromagno Patriota
+Estado nuevo: DBAN
+Nota: Perdonazo
+Hora modificacion: 11:20:57 am
+fecha de modificacion : 2016-02-18
+Admin que modifica: Ashes
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre baneado: Pablo Sebastian Gonzalez Godoy
+Estado nuevo: DBAN
+Nota: Ban sin sentido
+Hora modificacion: 12:16:46 pm
+fecha de modificacion : 2016-02-22
+Admin que modifica: xHebHaH
+IP Admin: 190.45.45.226
+--------------------------------------------------------
+Nombre baneado: Elizabeth Toro Parada
+Estado nuevo: DBAN
+Nota: Fecha Cumplida 
+no se encuentra perfil
+Hora modificacion: 01:57:51 am
+fecha de modificacion : 2016-03-03
+Admin que modifica: Zatokz12
+IP Admin: 200.120.227.15
+--------------------------------------------------------
+Nombre baneado: Tomii Garbuglia
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:00:30 am
+fecha de modificacion : 2016-03-03
+Admin que modifica: Zatokz12
+IP Admin: 200.120.227.15
+--------------------------------------------------------
+Nombre baneado: Samuel Jonathan Martinez Baeza
+Estado nuevo: DBAN
+Nota: Fecha Cumplida, no se encuentra perfil
+Hora modificacion: 02:04:32 am
+fecha de modificacion : 2016-03-03
+Admin que modifica: Zatokz12
+IP Admin: 200.120.227.15
+--------------------------------------------------------
+Nombre baneado: Matias Maldonado
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:07:12 am
+fecha de modificacion : 2016-03-03
+Admin que modifica: Zatokz12
+IP Admin: 200.120.227.15
+--------------------------------------------------------
+Nombre baneado: Emir Castro
+Estado nuevo: DBAN
+Nota: Fecha Cumplida, No se encuentra perfil
+Hora modificacion: 02:09:44 am
+fecha de modificacion : 2016-03-03
+Admin que modifica: Zatokz12
+IP Admin: 200.120.227.15
+--------------------------------------------------------
+Nombre baneado: Waleska Hultzsch
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 02:17:16 am
+fecha de modificacion : 2016-03-03
+Admin que modifica: Zatokz12
+IP Admin: 200.120.227.15
+--------------------------------------------------------
+Nombre baneado: Usagi Chan
+Estado nuevo: DBAN
+Nota: Fecha Cumplida, No se encuentra perfil
+Hora modificacion: 02:20:08 am
+fecha de modificacion : 2016-03-03
+Admin que modifica: Zatokz12
+IP Admin: 200.120.227.15
+--------------------------------------------------------
+Nombre baneado: Mario Wario Donoso
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:06:23 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Mario Wario Donoso
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:06:24 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Gianlu Urrutia
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:06:46 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Jaime Castro
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:07:33 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Thomy Hoffer 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:07:57 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Matias Andres Gonzalez Guzman 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 08:08:19 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Panxeeto Maturana
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:09:03 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Nicko Rivera
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:09:30 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Cristian Bustos De Mi Maiter
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:09:44 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Daniel Alejandro Retamal Rojas
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:09:58 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Andy Olivares
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:10:23 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Andy Olivares
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:11:04 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Oliver Reyes
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:11:32 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Danko Cross ElRenacido
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:11:49 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Sebastian BeGone
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:12:10 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Daniel Hernan Zamora Villegas
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:12:25 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Korab Podrimaj 
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:12:39 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Mario SepÃºlveda Allende
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:12:53 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Mario SepÃºlveda Allende
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:12:54 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Oliver Santos PiÃ±a
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:13:23 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Mizangame Gaming
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:13:44 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Sergio Alfonso
+Estado nuevo: DBAN
+Nota: Fecha Cumplida
+Hora modificacion: 08:14:11 pm
+fecha de modificacion : 2016-03-07
+Admin que modifica: Thesilence
+IP Admin: 181.161.180.79
+--------------------------------------------------------
+Nombre baneado: Jotanan Hernan Suleiman
+Estado nuevo: DBAN
+Nota: No encontrado en la lista
+Hora modificacion: 09:16:42 pm
+fecha de modificacion : 2016-03-18
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Karenciwis Fernandez Silva
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:10:26 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Claudio Raw
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:11:05 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Diana Palacios
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:12:02 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Tiio Kingamer
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:12:45 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: MarÃ­a Kawaii
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:13:22 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Fabian Alexis Perez del Mainkrah
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:13:45 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Franco Galindo
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:14:33 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: FackDiexis Hcm 
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:14:53 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: Alberto Ampuero Barria
+Estado nuevo: DBAN
+Nota: Fecha cumplida
+Hora modificacion: 04:15:32 pm
+fecha de modificacion : 2016-03-19
+Admin que modifica: Coti
+IP Admin: 200.83.59.124
+--------------------------------------------------------
+Nombre baneado: LukasQuebedo
+Estado nuevo: DBAN
+Nota: TEST
+Hora modificacion: 02:32:00 am
+fecha de modificacion : 2016-03-20
+Admin que modifica: xHebHaH
+IP Admin: 190.160.119.220
+--------------------------------------------------------
+Nombre baneado: dasdad
+Estado nuevo: DBAN
+Nota: PRUEBA FINALIZADA
+Hora modificacion: 12:48:07 am
+fecha de modificacion : 2016-03-24
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: Test
+Estado nuevo: DBAN
+Nota: Prueba finalizada
+Hora modificacion: 01:26:15 pm
+fecha de modificacion : 2016-04-09
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre baneado: TEST
+Estado nuevo: DBAN
+Nota: TESSSSSSSSSSSSSSST
+Hora modificacion: 11:31:48 pm
+fecha de modificacion : 2016-04-11
+Admin que modifica: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------

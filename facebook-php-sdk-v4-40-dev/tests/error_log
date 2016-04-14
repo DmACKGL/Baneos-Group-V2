@@ -1,0 +1,2 @@
+[30-Jun-2015 02:45:11 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gamelhzo/public_html/baneos-group/facebook-php-sdk-v4-4.0-dev/tests/FacebookRequestTest.php on line 7
+[30-Jun-2015 02:46:05 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/gamelhzo/public_html/baneos-group/facebook-php-sdk-v4-4.0-dev/tests/GraphUserTest.php on line 7

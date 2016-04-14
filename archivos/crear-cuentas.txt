@@ -1,0 +1,166 @@
+Nombre cuenta: aMachimaro
+Fecha creacion: 2015-07-03
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: zbMachimaro
+Fecha creacion: 2015-07-03
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: zbsMachimaro
+Fecha creacion: 2015-07-03
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: zbsMachimaro
+Fecha creacion: 2015-07-03
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: asdzbsMachimaro
+Fecha creacion: 2015-07-03
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: test
+Fecha creacion: 2015-07-04
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: rodrigo
+Fecha creacion: 2015-07-04
+Tipo de cuenta: Full admin
+Admin que crea: DJMastermack
+IP Admin: 190.46.106.84
+--------------------------------------------------------
+Nombre cuenta: dazer
+Fecha creacion: 2015-07-05
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: gordonner
+Fecha creacion: 2015-07-10
+
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: gansta
+Fecha creacion: 2015-07-10
+Tipo de cuenta: moderador
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: Coti
+Fecha creacion: 2015-07-10
+Tipo de cuenta: moderador
+Admin que crea: Gato
+IP Admin: 186.79.111.57
+--------------------------------------------------------
+Nombre cuenta: prueba
+Fecha creacion: 2015-07-10
+Tipo de cuenta: Administrador sistema
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: prueba
+Fecha creacion: 2015-07-10
+Tipo de cuenta: Administrador sistema
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: prueba
+Fecha creacion: 2015-07-10
+Tipo de cuenta: Administrador sistema
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: prueba
+Fecha creacion: 2015-07-10
+Tipo de cuenta: moderador
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: prueba
+Fecha creacion: 2015-07-10
+Tipo de cuenta: moderador
+Admin que crea: peshotes
+IP Admin: 179.4.223.119
+--------------------------------------------------------
+Nombre cuenta: felipeloyy
+Fecha creacion: 2015-07-12
+Tipo de cuenta: moderador
+Admin que crea: Gato
+IP Admin: 186.79.70.53
+--------------------------------------------------------
+Nombre cuenta: felipeloyy
+Fecha creacion: 2015-07-12
+Tipo de cuenta: moderador
+Admin que crea: Gato
+IP Admin: 186.79.70.53
+--------------------------------------------------------
+Nombre cuenta: Thesilence
+Fecha creacion: 2015-07-12
+Tipo de cuenta: moderador
+Admin que crea: Gato
+IP Admin: 186.79.70.53
+--------------------------------------------------------
+Nombre cuenta: Zatokz12
+Fecha creacion: 2015-07-12
+Tipo de cuenta: moderador
+Admin que crea: Gato
+IP Admin: 186.79.70.53
+--------------------------------------------------------
+Nombre cuenta: marelo
+Fecha creacion: 2015-08-21
+Tipo de cuenta: Administrador sistema
+Admin que crea: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre cuenta: test2
+Fecha creacion: 2015-08-23
+Tipo de cuenta: Administrador sistema
+Admin que crea: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre cuenta: canuqui
+Fecha creacion: 2015-09-28
+Tipo de cuenta: moderador
+Admin que crea: Ashes
+Proxy Admin: 190.45.8.167
+IP Admin: 190.45.8.167
+--------------------------------------------------------
+Nombre cuenta: test
+Fecha creacion: 2015-10-12
+Tipo de cuenta: Administrador sistema
+Admin que crea: peshotes
+Proxy Admin: 179.4.224.239
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre cuenta: test
+Fecha creacion: 2015-10-19
+Tipo de cuenta: moderador
+Admin que crea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre cuenta: ADMINISTRACION
+Fecha creacion: 2015-10-24
+Tipo de cuenta: Full admin
+Admin que crea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
+Nombre cuenta: karmikarms
+Fecha creacion: 2016-03-09
+Tipo de cuenta: moderador
+Admin que crea: peshotes
+IP Admin: 179.4.224.239
+--------------------------------------------------------
